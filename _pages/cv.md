@@ -22,7 +22,7 @@ Work experience
   * Duties included: Working on how to use LLMs for software engineers
   * Supervisor: Professor Souti (Rini) Chattopadhyay
   
-Skills
+<!-- Skills
 ======
 
 
@@ -45,5 +45,5 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
-======
+====== -->
 

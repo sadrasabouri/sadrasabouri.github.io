@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is my home on the web!
-
-TODO: complete this page
+A Ph.D. computer science student who has interest in how human interacts with computer. Also, an opensource developer who tries to make the open-science dream come true.
