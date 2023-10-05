@@ -22,9 +22,13 @@ Work experience
   * Duties included: Working on how to use LLMs for software engineers
   * Supervisor: Professor Souti (Rini) Chattopadhyay
   
-<!-- Skills
+Skills
 ======
-
+* Natural Language Processing (NLP)
+* Python (Programming Language)
+* C/C++
+* Git
+* Verilog/VHDL
 
 Publications
 ======
@@ -45,5 +49,5 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
-====== -->
+======
 
