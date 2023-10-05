@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-A Ph.D. computer science student and a research assistant. Also, an opensource developer who tries to make the open-science dream come true. Plus that, I enjoy watching movies and rate them in [my IMDB list](https://www.imdb.com/user/ur135112532/ratings?sort=your_rating,desc&ratingFilter=0&mode=detail&ref_=undefined&lastPosition=0).
+A Ph.D. computer science student and a research assistant. Also, an opensource developer who tries to make the open-science dream come true. Plus that, I enjoy watching movies and rate them in my IMDB list.
 
-=====
+======
 
-**Research at USC 🔮**
+**Research at USC 🔴🟡**
 
-As a Research Assistant, I'm part of the ACE lab, under the supervision of Souti (Rini) Chattopadhyay. We're working on solutions and pushing the boundaries of what's possible in the world of human-computer interaction.
+As a Research Assistant, I'm part of the ACE lab, under the supervision of Souti (Rini) Chattopadhyay. We're working on solutions and pushing the boundaries of what's possible in the world of human-computer interaction. BTW, our main focus is on software developers.
 
-=====
+======
 
 **Open Source Enthusiast 🌐❤️**
 
