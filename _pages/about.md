@@ -18,5 +18,5 @@ As a Research Assistant, I'm part of the Adaptive Computing Experience (ACE) lab
 
 **Open Source Enthusiast 🌐**
 
-When the clock strikes "free time," I become an open-source developer! I'm an advocate for collaboration and shared knowledge, which is why I'm always contributing to open-source projects. You'll find my coding escapades on my GitHub profile, where I join forces with tech-savvy allies to create and improve open-source software. We also strated a opensource software development group called ["OpenSciLab"](https://openscilab.com/) to better focus and measure our contributions to the open-source community.
+In my "free time," I become an open-source developer! I'm an advocate for collaboration and shared knowledge, which is why I'm always contributing to open-source projects. You'll find more about my open-source activities on my GitHub profile, where I join forces with tech-savvy allies to create and improve open-source software. We also strated a opensource software development group called [OpenSciLab](https://openscilab.com/) to better focus and measure our contributions to the open-source community.
 
