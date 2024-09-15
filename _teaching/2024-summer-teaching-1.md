@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant (DSCI552)"
 collection: teaching
-type: "Graduate Course"
+type: "Graduate course"
 permalink: /teaching/2024-summer-teaching-1
 venue: "University of Southern California, Computer Science Department"
 date: 2024-06-01
