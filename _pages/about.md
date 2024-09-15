@@ -21,4 +21,5 @@ As a Research Assistant, I'm part of the Adaptive Computing Experience (ACE) lab
 In my "free time," I become an open-source developer! I'm an advocate for collaboration and shared knowledge, which is why I'm always contributing to open-source projects. You'll find more about my open-source activities on my GitHub profile, where I join forces with tech-savvy allies to create and improve open-source software. We also strated a opensource software development group called [OpenSciLab](https://openscilab.com/) to better focus and measure our contributions to the open-source community.
 
 ### News
-+ (09/01/2024): I was awarded a [Trelis AI Grant](https://trelis.com/trelis-ai-grants/) for developing a RESTful API for PyCM, enhancing accessibility to machine learning statistical post-processing tools.
+
+09/01/2024: I was awarded a [Trelis AI Grant](https://trelis.com/trelis-ai-grants/) for developing a RESTful API for PyCM, enhancing accessibility to machine learning statistical post-processing tools.
