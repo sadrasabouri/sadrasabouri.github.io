@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering, Sharif University of Technology, 2023
-* B.S. in Computer Science, Sharif University of Technology, 2023
 * Ph.D in Computer Science, University of Southern California, 2028 (expected)
+* B.S. in Computer Science, Sharif University of Technology, 2023
+* B.S. in Electrical Engineering, Sharif University of Technology, 2023
 
-Work experience
+TBD
+<!-- Work experience
 ======
 * Fall 2023: Research Assistant
   * University of Southern California
@@ -49,5 +50,4 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
-======
-
+====== -->
