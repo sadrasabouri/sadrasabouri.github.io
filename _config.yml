@@ -99,17 +99,17 @@ author:
   github           : "sadrasabouri"
   google_plus      :
   keybase          :
-  instagram        : "sadrasabouri/"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "sadrasabouri/"
   orcid            :
   pinterest        :
-  soundcloud       : "sadrasabouri"
+  soundcloud       :
   stackoverflow    : "11587802/sadra-sabouri"
   steam            :
   tumblr           :
-  twitter          : "sadrasabouri"
+  twitter          : "sadrasabourih"
   vine             :
   weibo            :
   xing             :
@@ -181,9 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: false
+  #   permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -228,14 +228,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
   # _talks
   - scope:
       path: ""
