@@ -17,7 +17,7 @@ I'm always curious to meet new people and hear about their journeys, so shoot me
 
 
 <details>
-<summary><b>CS PhD @ USC ✌️</b></summary>
+<summary style="text-indent: 1em;"><b>CS PhD @ USC ✌️</b></summary>
 
 The main problem I'm trying to solve is the integration of AI systems into human workflows—specifically, answering the question: "What is the core part of a task that AI cannot do, and how can AI assist humans in doing that?"
 Helping humans tackle the hardest parts of their jobs—with AI as a consultant—is the overarching meta-goal of my current research.
@@ -28,12 +28,12 @@ Throughout this journey, I've had the great opportunity to work with the Adaptiv
 <br>
 You can find my publications below:
   <details>
-    <summary>[ICSE25] <i>Trust dynamics in AI-assisted development: Definitions, factors, and implications,</i> <b>Sadra Sabouri</b>, Philipp Eibl, Xinyi Zhou, Morteza Ziyadi, Nenad Medvidovic, Lars Lindemann, Souti Chattopadhyay</summary>
+    <summary style="text-indent: 1em;">[ICSE25] <b>Trust dynamics in AI-assisted development: Definitions, factors, and implications,</b> <b><u>Sadra Sabouri</u></b>, Philipp Eibl, Xinyi Zhou, Morteza Ziyadi, Nenad Medvidovic, Lars Lindemann, Souti Chattopadhyay</summary>
     <a href="https://www.amazon.science/publications/trust-dynamics-in-ai-assisted-development-definitions-factors-and-implications" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Paper</div></a><br>
     We investigate how developers define, evaluate, and evolve trust in AI-generated code suggestions through a mixed-method study involving surveys and observations. We found that while comprehensibility and perceived correctness are key to trust decisions, developers often revise their choices, accepting only 52% of AI suggestions, highlighting the need for better real-time support and offering four validated guidelines to improve developer-AI collaboration.
   </details>
   <details>
-    <summary>[ACL25] <i>ELI-Why: Evaluating the Pedagogical Utility of Language Model Explanations,</i> Brihi Joshi, Keyu He, Sahana Ramnath, <b>Sadra Sabouri</b>, Kaitlyn Zhou, Souti Chattopadhyay, Swabha Swayamdipta, Xiang Ren</summary>
+    <summary style="text-indent: 1em;">[ACL25] <b>ELI-Why: Evaluating the Pedagogical Utility of Language Model Explanations,</b> Brihi Joshi, Keyu He, Sahana Ramnath, <b><u>Sadra Sabouri</u></b>, Kaitlyn Zhou, Souti Chattopadhyay, Swabha Swayamdipta, Xiang Ren</summary>
     <a href="https://arxiv.org/pdf/2506.14200" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Paper</div></a>
     <a href="https://github.com/INK-USC/ELI-Why" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Code</div></a>
     <a href="https://huggingface.co/collections/INK-USC/eli-why-6849086c86556f7a2dd7c686" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Data</div></a><br>
@@ -42,10 +42,13 @@ You can find my publications below:
 <br>
 Always happy to chat, collaborate, or just hear what you're working on; feel free to reach out!
 
-<!-- <details>
-<summary>**Open World Developer 🌐**</summary>
-In my free time, I become an open-source software developer! I'm an advocate for collaboration and shared knowledge. You'll find more about my open-source activities on my GitHub profile. Following that I co-founded [OpenSciLab](https://openscilab.com/) as a community for open science.
- -->
+</details>
+
+<hr>
+
+<details>
+<summary style="text-indent: 1em;">**Open World Developer 🌐**</summary>
+asda
 </details>
 
 ### News
