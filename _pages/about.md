@@ -64,8 +64,8 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
     <summary style="margin-left: 1em;">Network</summary><div style="margin-left: 1em;">
       <details>
         <summary style="margin-left: 1em;">PyRGG: Python Random Graph Generator</summary><div style="margin-left: 1em;">
-        <a href="https://github.com/sepandhaghighi/pyrgg/"><img src="https://img.shields.io/github/stars/sepandhaghighi/pyrgg/.svg?style=social&logo=github&label=Stars"></a>
-        <a href="https://github.com/sepandhaghighi/pyrgg/"><img src="https://img.shields.io/github/forks/sepandhaghighi/pyrgg/.svg?style=social&logo=github&label=Forks"></a>
+        <a href="https://github.com/sepandhaghighi/pyrgg/"><img src="https://img.shields.io/github/stars/sepandhaghighi/pyrgg.svg?style=social&logo=github&label=Stars"></a>
+        <a href="https://github.com/sepandhaghighi/pyrgg/"><img src="https://img.shields.io/github/forks/sepandhaghighi/pyrgg.svg?style=social&logo=github&label=Forks"></a>
         <a href="http://pepy.tech/project/pyrgg"><img src="http://pepy.tech/badge/pyrgg"></a><br>
         PyRGG synthesizes random graph which can be useful in networks simulation. It supports multiple graph file formats, such as DIMACS-Graph files. It can generate graphs of various sizes and using different generation methods such as Erdős–Rényi-Gilbert, Erdős–Rényi, Stochastic Block Model.
       </div></details>
