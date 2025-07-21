@@ -51,7 +51,7 @@ This poses a sense of Frankenstein-Trojan threat to scientific integrity.
 Committed to open science and reproducibility, I focus on building scientific software that ensures transparency.
 With a group of my friends, I co-founded <a href="https://github.com/openscilab/">OpenSciLab</a> to develop open-source tools toward this goal.
 <br><br>
-Below is a topic-based summary of my work, both through OpenSciLab and independent projects: [TBD]
+Below is a topic-based summary of my work, including those through OpenSciLab, dataset releases and independent projects: [TBD]
   <details>
     <summary style="margin-left: 1em;">Natural Language Processing (NLP) and Speech Processing</summary><div style="margin-left: 1em;">
     memor, parsipy, nava, naab, syntran-fa, speech-review, wav2vec2, pahgen, xnum, p-in-court, docalog, exprand, tocount
@@ -74,17 +74,29 @@ Below is a topic-based summary of my work, both through OpenSciLab and independe
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Chemistry</summary><div style="margin-left: 1em;">
-    ECSIMs,
-    ECSIM-dataset
+    <!-- Amin's paper -->
+      <details>
+        <summary style="margin-left: 1em;">Single Direct Borohydride Fuel Cell (DBFC) Dataset</summary><div style="margin-left: 1em;">
+        <a href="https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/60c74a3e469df423a9f43ce2/original/experimental-dataset-of-electrochemical-efficiency-of-a-direct-borohydride-fuel-cell-dbfc-with-pd-c-pt-c-and-pd-decorated-ni-co-r-go-anode-catalysts.pdf" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Paper</div></a>
+        <a href="https://github.com/ECSIM/dbfc-dataset"><img src="https://img.shields.io/github/stars/ECSIM/dbfc-dataset.svg?style=social&logo=github&label=Stars"></a>
+        <a href="https://github.com/ECSIM/dbfc-dataset"><img src="https://img.shields.io/github/forks/ECSIM/dbfc-dataset.svg?style=social&logo=github&label=Forks"></a><br>
+        Dataset includes Direct Borohydride Fuel Cell (DBFC) impedance and polarization test in anode with Pd/C, Pt/C and Pd decorated Ni–Co/rGO catalysts. Voltage, power density and resistance of DBFC change as a function of weight percent of SBH (%), applied voltage and amount of anode catalyst loading that are evaluated by polarization and impedance curves with using appropriate equivalent circuit of fuel cell.
+      </div></details>
+      <details>
+        <summary style="margin-left: 1em;">OPEM: Open Source PEM Fuel Cell Simulation Tool</summary><div style="margin-left: 1em;">
+        <a href="https://github.com/ECSIM/opem"><img src="https://img.shields.io/github/stars/ECSIM/opem.svg?style=social&logo=github&label=Stars"></a>
+        <a href="https://github.com/ECSIM/opem"><img src="https://img.shields.io/github/forks/ECSIM/opem.svg?style=social&logo=github&label=Forks"></a>
+        <a href="https://github.com/ECSIM/opem"><img src="http://pepy.tech/badge/opem"></a><br>
+        The Open-Source PEMFC Simulation Tool (OPEM) is a modeling tool for evaluating the performance of proton exchange membrane fuel cells. This package is a combination of models (static/dynamic) that predict the optimum operating parameters of PEMFC. OPEM contained generic models that will accept as input, not only values of the operating variables such as anode and cathode feed gas, pressure and compositions, cell temperature and current density, but also cell parameters including the active area and membrane thickness.
+      </div></details>
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Biomedical Science</summary><div style="margin-left: 1em;">
       <!-- drux -->
       <details>
         <summary style="margin-left: 1em;">OPR: Optimized Primer Design Tool</summary><div style="margin-left: 1em;">
-        <a href="https://github.com/openscilab/opr" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">GitHub</div></a>
-        <img src="https://img.shields.io/github/stars/openscilab/opr.svg?style=social&logo=github&label=Stars">
-        <img src="https://img.shields.io/github/forks/openscilab/opr.svg?style=social&logo=github&label=Forks">
+        <a href="https://github.com/openscilab/opr"><img src="https://img.shields.io/github/stars/openscilab/opr.svg?style=social&logo=github&label=Stars"></a>
+        <a href="https://github.com/openscilab/opr"><img src="https://img.shields.io/github/forks/openscilab/opr.svg?style=social&logo=github&label=Forks"></a>
         <a href="http://pepy.tech/project/opr"><img src="http://pepy.tech/badge/opr"></a><br>
         OPR is an open-source Python package designed to simplify and streamline primer design and analysis for biologists and bioinformaticians. It enables users to design, validate, and optimize primers with ease, catering to a wide range of applications such as PCR, qPCR, and sequencing. 
       </div></details>
