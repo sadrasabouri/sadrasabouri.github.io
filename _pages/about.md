@@ -74,15 +74,28 @@ Below is a topic-based summary of my work, both through OpenSciLab and independe
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Chemistry</summary><div style="margin-left: 1em;">
-    ECSIMs, ECSIM-dataset
+    ECSIMs,
+    ECSIM-dataset
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Biomedical Science</summary><div style="margin-left: 1em;">
-    opr, drux
+      <!-- drux -->
+      <details>
+        <summary style="margin-left: 1em;">OPR: Optimized Primer Design Tool</summary><div style="margin-left: 1em;">
+        <a href="https://github.com/openscilab/opr" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">GitHub</div></a>
+        <img src="https://img.shields.io/github/stars/openscilab/opr.svg?style=social&logo=github&label=Stars">
+        <img src="https://img.shields.io/github/forks/openscilab/opr.svg?style=social&logo=github&label=Forks">
+        <a href="http://pepy.tech/project/opr"><img src="http://pepy.tech/badge/opr"></a><br>
+        OPR is an open-source Python package designed to simplify and streamline primer design and analysis for biologists and bioinformaticians. It enables users to design, validate, and optimize primers with ease, catering to a wide range of applications such as PCR, qPCR, and sequencing. 
+      </div></details>
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Civil Engineering</summary><div style="margin-left: 1em;">
-    representive-sample
+      <details>
+        <summary style="margin-left: 1em;">[AGU-WRR24] <b>Representative sample size for estimating saturated hydraulic conductivity via machine learning: A proof‐of‐concept study,</b> Amin Ahmadisharaf, Reza Nematirad, <b><u>Sadra Sabouri</u></b>, Yakov Pachepsky, Behzad Ghanbarian</summary><div style="margin-left: 1em;">
+        <a href="https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2023WR036783" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Paper</div></a><br>
+        Machine learning is widely used across disciplines, but hydrology has often overlooked the impact of data heterogeneity and sample size. In this study, we used ~18k soil samples from the USKSAT database to analyze how training size affects ML accuracy in estimating saturated hydraulic conductivity (Ks). Using XGBoost and repeated random subsets, we found that even with large datasets, learning and validation curves didn’t plateau.
+      </div></details>
   </div></details>
 </div></details>
 
