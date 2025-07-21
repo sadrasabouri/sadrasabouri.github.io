@@ -62,7 +62,28 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Network</summary><div style="margin-left: 1em;">
-    pyrgg, ipspot, Pymilo, dmeta, mybutton, reserver
+      <details>
+        <summary style="margin-left: 1em;">PyRGG: Python Random Graph Generator</summary><div style="margin-left: 1em;">
+        <a href="https://github.com/sepandhaghighi/pyrgg/"><img src="https://img.shields.io/github/stars/sepandhaghighi/pyrgg/.svg?style=social&logo=github&label=Stars"></a>
+        <a href="https://github.com/sepandhaghighi/pyrgg/"><img src="https://img.shields.io/github/forks/sepandhaghighi/pyrgg/.svg?style=social&logo=github&label=Forks"></a>
+        <a href="http://pepy.tech/project/pyrgg"><img src="http://pepy.tech/badge/pyrgg"></a><br>
+        PyRGG synthesizes random graph which can be useful in networks simulation. It supports multiple graph file formats, such as DIMACS-Graph files. It can generate graphs of various sizes and using different generation methods such as Erdős–Rényi-Gilbert, Erdős–Rényi, Stochastic Block Model.
+      </div></details>
+      <details>
+        <summary style="margin-left: 1em;">IPSpot: A Python Tool to Fetch the System's IP Address</summary><div style="margin-left: 1em;">
+        <a href="https://github.com/openscilab/ipspot"><img src="https://img.shields.io/github/stars/openscilab/ipspot.svg?style=social&logo=github&label=Stars"></a>
+        <a href="https://github.com/openscilab/ipspot"><img src="https://img.shields.io/github/forks/openscilab/ipspot.svg?style=social&logo=github&label=Forks"></a>
+        <a href="http://pepy.tech/project/ipspot"><img src="http://pepy.tech/badge/ipspot"></a><br>
+        IPSpot retrieves the system's IP address and location information. It supports public and private IPv4 and IPv6 detection using multiple API providers with a fallback mechanism for reliability.
+      </div></details>
+      <details>
+        <summary style="margin-left: 1em;"><b>Pymilo: A python library for ml I/O,</b> AmirHosein Rostami, Sepand Haghighi, <b><u>Sadra Sabouri</u></b>, Alireza Zolanvari</summary><div style="margin-left: 1em;">
+        <a href="https://arxiv.org/pdf/2501.00528" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Paper</div></a>
+        <a href="https://github.com/openscilab/pymilo"><img src="https://img.shields.io/github/stars/openscilab/pymilo.svg?style=social&logo=github&label=Stars"></a>
+        <a href="https://github.com/openscilab/pymilo"><img src="https://img.shields.io/github/forks/openscilab/pymilo.svg?style=social&logo=github&label=Forks"></a>
+        <a href="http://pepy.tech/project/pymilo"><img src="http://pepy.tech/badge/pymilo"></a><br>
+        PyMilo addresses the limitations of existing Machine Learning (ML) model storage formats by providing a transparent, reliable, and safe method for exporting and deploying trained models. Current formats, such as pickle and other binary formats, have significant problems, such as reliability, safety, and transparency issues. In contrast, PyMilo serializes ML models in a transparent non-executable format, enabling straightforward and safe model exchange.
+      </div></details>
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Art</summary><div style="margin-left: 1em;">
