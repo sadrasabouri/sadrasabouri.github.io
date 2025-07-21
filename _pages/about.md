@@ -46,11 +46,17 @@ Always happy to chat, collaborate, or just hear what you're working on; feel fre
 
 <details>
 <summary style="margin-left: 1em;"><b>Open World Developer 🌐</b></summary><div style="margin-left: 1em;">
-
+...
 </div></details>
 
 ### News
 
+Mar 2025: Python Software Foundation (PSF) granted our work, [Nava library](https://github.com/openscilab/nava), for adding new OS-based sound engines, and integrating into notebooks.
+
+Feb 2025: Nlnet granted our work, [PyCM library](https://github.com/sepandhaghighi/pycm), for a year through NGI0 Commons Fund for adding new features such as distance similarity matrix, data distribution analysis, hardware benchmarking of the library.
+
 Jan 2025: My paper [Trust dynamics in AI-assisted development: Definitions, factors, and implications](https://www.amazon.science/publications/trust-dynamics-in-ai-assisted-development-definitions-factors-and-implications) got accepted into International Conference on Software Engineering (ICSE) 2025. I will present my work remotely in searly May.
 
 Sep 2024: I was awarded a [Trelis AI Grant](https://trelis.com/trelis-ai-grants/) for developing a RESTful API for PyCM, enhancing accessibility to machine learning statistical post-processing tools.
+
+May 2024: Python Software Foundation (PSF) granted our work, [ASCII Art library](https://github.com/sepandhaghighi/art), for developing the library and add new features like multi-line arts, and supporting custom fonts.
