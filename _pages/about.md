@@ -66,7 +66,21 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Art</summary><div style="margin-left: 1em;">
-    art, samila
+      <details>
+        <summary style="margin-left: 1em;"><b>Samila: A Generative Art Generator,</b> <b><u>Sadra Sabouri</u></b>, Sepand Haghighi, Elena Masrour</summary><div style="margin-left: 1em;">
+        <a href="https://arxiv.org/pdf/2504.04298" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Paper</div></a>
+        <a href="https://github.com/sepandhaghighi/samila"><img src="https://img.shields.io/github/stars/sepandhaghighi/samila.svg?style=social&logo=github&label=Stars"></a>
+        <a href="https://github.com/sepandhaghighi/samila"><img src="https://img.shields.io/github/forks/sepandhaghighi/samila.svg?style=social&logo=github&label=Forks"></a>
+        <a href="http://pepy.tech/project/samila"><img src="http://pepy.tech/badge/samila"></a><br>
+        Samila lets you create images by randomly permuting many thousand points. The position of every single point is calculated by a formula, which has random parameters. Because of the randomness of the generation process you nearly can't reproduce any image unless you have the right seed for it. I highly encourage you to take a look at the paper if you're interested.
+      </div></details>
+      <details>
+        <summary style="margin-left: 1em;">Art: ASCII art library for Python</summary><div style="margin-left: 1em;">
+        <a href="https://github.com/sepandhaghighi/art"><img src="https://img.shields.io/github/stars/sepandhaghighi/art.svg?style=social&logo=github&label=Stars"></a>
+        <a href="https://github.com/sepandhaghighi/art"><img src="https://img.shields.io/github/forks/sepandhaghighi/art.svg?style=social&logo=github&label=Forks"></a>
+        <a href="http://pepy.tech/project/art"><img src="http://pepy.tech/badge/art"></a><br>
+        Art does the "smart" placement of typed special characters or letters to make a visual shape that is spread over multiple lines of text.
+      </div></details>
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Human Computer Interaction (HCI)</summary><div style="margin-left: 1em;">
