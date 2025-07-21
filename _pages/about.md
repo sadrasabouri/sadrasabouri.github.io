@@ -53,8 +53,15 @@ With a group of my friends, I co-founded <a href="https://github.com/openscilab/
 <br><br>
 Below is a topic-based summary of my work, including those through OpenSciLab, dataset releases and independent projects: [TBD]
   <details>
-    <summary style="margin-left: 1em;">Natural Language Processing (NLP) and Speech Processing</summary><div style="margin-left: 1em;">
-    memor, parsipy, nava, naab, syntran-fa, speech-review, wav2vec2, pahgen, xnum, p-in-court, docalog, exprand, tocount
+    <summary style="margin-left: 1em;">Natural Language Processing and Large Language Models</summary><div style="margin-left: 1em;">
+    <!-- exprand -->
+    <!-- tocount -->
+    <!-- xnum -->
+    memor, naab, parsipy, syntran-fa, pahgen, docalog
+  </div></details>
+  <details>
+    <summary style="margin-left: 1em;">Speech Processing</summary><div style="margin-left: 1em;">
+    nava, wav2vec2
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Machine Learning (ML)</summary><div style="margin-left: 1em;">
@@ -106,12 +113,13 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
   <details>
     <summary style="margin-left: 1em;">Human Computer Interaction (HCI)</summary><div style="margin-left: 1em;">
       <details>
+        <!-- Add Nafas' Paper with Studies -->
         <summary style="margin-left: 1em;"><b>Nafas: Breathing Gymnastics Application,</b> <b><u>Sadra Sabouri</u></b>, Sepand Haghighi</summary><div style="margin-left: 1em;">
-        <a href="https://arxiv.org/pdf/2412.04667" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Paper</div></a>
         <a href="https://github.com/sepandhaghighi/nafas"><img src="https://img.shields.io/github/stars/sepandhaghighi/nafas.svg?style=social&logo=github&label=Stars"></a>
         <a href="https://github.com/sepandhaghighi/nafas"><img src="https://img.shields.io/github/forks/sepandhaghighi/nafas.svg?style=social&logo=github&label=Forks"></a>
         <a href="http://pepy.tech/project/nafas"><img src="http://pepy.tech/badge/nafas"></a><br>
-        Nafas is a collection of breathing gymnastics designed to reduce the exhaustion of long working hours with computer. With multiple breathing patterns, Nafas helps you find your way to a detoxified energetic workday and also improves your concentration by increasing the oxygen level. We ran a user study to understand the library's users and tailor the features and programs to their style.
+        Nafas is a collection of breathing gymnastics designed to reduce the exhaustion of long working hours with computer. With multiple breathing patterns, Nafas helps you find your way to a detoxified energetic workday and also improves your concentration by increasing the oxygen level. 
+        <!-- We ran a user study to understand the library's users and tailor the features and programs to their style. -->
       </div></details>
       <details>
         <summary style="margin-left: 1em;">mytimer: A Timer for Command Line Enthusiasts</summary><div style="margin-left: 1em;">
