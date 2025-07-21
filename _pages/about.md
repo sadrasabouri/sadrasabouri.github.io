@@ -65,7 +65,13 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Machine Learning (ML)</summary><div style="margin-left: 1em;">
-    PyCM, 2bfair
+      <details>
+        <summary style="margin-left: 1em;">PyCM: Multi-class confusion matrix library in Python</summary><div style="margin-left: 1em;">
+        <a href="https://github.com/sepandhaghighi/pycm/"><img src="https://img.shields.io/github/stars/sepandhaghighi/pycm.svg?style=social&logo=github&label=Stars"></a>
+        <a href="https://github.com/sepandhaghighi/pycm/"><img src="https://img.shields.io/github/forks/sepandhaghighi/pycm.svg?style=social&logo=github&label=Forks"></a>
+        <a href="http://pepy.tech/project/pycm"><img src="http://pepy.tech/badge/pycm"></a><br>
+        PyCM is a tool for post-classification model evaluation that supports most class and overall statistic parameters. PyCM targeted mainly the data scientists that need a broad array of metrics for predictive models and accurate evaluation of a large variety of classifiers.
+      </div></details>
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Network</summary><div style="margin-left: 1em;">
