@@ -70,23 +70,37 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Human Computer Interaction (HCI)</summary><div style="margin-left: 1em;">
-    Nafas, mytimer
+      <details>
+        <summary style="margin-left: 1em;">Nafas: Breathing Gymnastics Application</summary><div style="margin-left: 1em;">
+        <a href="https://arxiv.org/pdf/2412.04667" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Paper</div></a>
+        <a href="https://github.com/sepandhaghighi/nafas"><img src="https://img.shields.io/github/stars/sepandhaghighi/nafas.svg?style=social&logo=github&label=Stars"></a>
+        <a href="https://github.com/sepandhaghighi/nafas"><img src="https://img.shields.io/github/forks/sepandhaghighi/nafas.svg?style=social&logo=github&label=Forks"></a>
+        <a href="http://pepy.tech/project/nafas"><img src="http://pepy.tech/badge/nafas"></a><br>
+        Nafas is a collection of breathing gymnastics designed to reduce the exhaustion of long working hours with computer. With multiple breathing patterns, Nafas helps you find your way to a detoxified energetic workday and also improves your concentration by increasing the oxygen level. We ran a user study to understand the library's users and tailor the features and programs to their style.
+      </div></details>
+      <details>
+        <summary style="margin-left: 1em;">mytimer: A Timer for Command Line Enthusiasts</summary><div style="margin-left: 1em;">
+        <a href="https://github.com/sepandhaghighi/mytimer"><img src="https://img.shields.io/github/stars/sepandhaghighi/mytimer.svg?style=social&logo=github&label=Stars"></a>
+        <a href="https://github.com/sepandhaghighi/mytimer"><img src="https://img.shields.io/github/forks/sepandhaghighi/mytimer.svg?style=social&logo=github&label=Forks"></a>
+        <a href="http://pepy.tech/project/mytimer"><img src="http://pepy.tech/badge/mytimer"></a><br>
+        MyTimer aims to provide a simple yet comprehensive timer for terminal users. This project allows users to set timers directly from their command line interface, making it convenient for those who spend a significant amount of time working in the terminal!
+      </div></details>
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Chemistry</summary><div style="margin-left: 1em;">
     <!-- Amin's paper -->
       <details>
-        <summary style="margin-left: 1em;">Single Direct Borohydride Fuel Cell (DBFC) Dataset</summary><div style="margin-left: 1em;">
+        <summary style="margin-left: 1em;"><b>Experimental dataset of electrochemical efficiency of a Direct Borohydride Fuel Cell (DBFC) with Pd/C, Pt/C and Pd decorated Ni–Co/rGO anode catalysts,</b> Sarmin Hamidi, <b><u>Sadra Sabouri</u></b>, Sepand Haghighi, Kasra Askari</summary><div style="margin-left: 1em;">
         <a href="https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/60c74a3e469df423a9f43ce2/original/experimental-dataset-of-electrochemical-efficiency-of-a-direct-borohydride-fuel-cell-dbfc-with-pd-c-pt-c-and-pd-decorated-ni-co-r-go-anode-catalysts.pdf" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Paper</div></a>
         <a href="https://github.com/ECSIM/dbfc-dataset"><img src="https://img.shields.io/github/stars/ECSIM/dbfc-dataset.svg?style=social&logo=github&label=Stars"></a>
         <a href="https://github.com/ECSIM/dbfc-dataset"><img src="https://img.shields.io/github/forks/ECSIM/dbfc-dataset.svg?style=social&logo=github&label=Forks"></a><br>
-        Dataset includes Direct Borohydride Fuel Cell (DBFC) impedance and polarization test in anode with Pd/C, Pt/C and Pd decorated Ni–Co/rGO catalysts. Voltage, power density and resistance of DBFC change as a function of weight percent of SBH (%), applied voltage and amount of anode catalyst loading that are evaluated by polarization and impedance curves with using appropriate equivalent circuit of fuel cell.
+        Dataset includes Direct Borohydride Fuel Cell (DBFC) impedance and polarization test in anode with Pd/C, Pt/C and Pd decorated Ni–Co/rGO catalysts. Voltage, power density and resistance of DBFC change as a function of weight percent of Sodium Borohydride (%), applied voltage and amount of anode catalyst loading that are evaluated by polarization and impedance curves with using appropriate equivalent circuit of fuel cell.
       </div></details>
       <details>
         <summary style="margin-left: 1em;">OPEM: Open Source PEM Fuel Cell Simulation Tool</summary><div style="margin-left: 1em;">
         <a href="https://github.com/ECSIM/opem"><img src="https://img.shields.io/github/stars/ECSIM/opem.svg?style=social&logo=github&label=Stars"></a>
         <a href="https://github.com/ECSIM/opem"><img src="https://img.shields.io/github/forks/ECSIM/opem.svg?style=social&logo=github&label=Forks"></a>
-        <a href="https://github.com/ECSIM/opem"><img src="http://pepy.tech/badge/opem"></a><br>
+        <a href="http://pepy.tech/project/opem"><img src="http://pepy.tech/badge/opem"></a><br>
         The Open-Source PEMFC Simulation Tool (OPEM) is a modeling tool for evaluating the performance of proton exchange membrane fuel cells. This package is a combination of models (static/dynamic) that predict the optimum operating parameters of PEMFC. OPEM contained generic models that will accept as input, not only values of the operating variables such as anode and cathode feed gas, pressure and compositions, cell temperature and current density, but also cell parameters including the active area and membrane thickness.
       </div></details>
   </div></details>
