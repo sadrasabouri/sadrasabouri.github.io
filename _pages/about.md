@@ -71,7 +71,7 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
   <details>
     <summary style="margin-left: 1em;">Human Computer Interaction (HCI)</summary><div style="margin-left: 1em;">
       <details>
-        <summary style="margin-left: 1em;">Nafas: Breathing Gymnastics Application</summary><div style="margin-left: 1em;">
+        <summary style="margin-left: 1em;"><b>Nafas: Breathing Gymnastics Application,</b> <b><u>Sadra Sabouri</u></b>, Sepand Haghighi</summary><div style="margin-left: 1em;">
         <a href="https://arxiv.org/pdf/2412.04667" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Paper</div></a>
         <a href="https://github.com/sepandhaghighi/nafas"><img src="https://img.shields.io/github/stars/sepandhaghighi/nafas.svg?style=social&logo=github&label=Stars"></a>
         <a href="https://github.com/sepandhaghighi/nafas"><img src="https://img.shields.io/github/forks/sepandhaghighi/nafas.svg?style=social&logo=github&label=Forks"></a>
