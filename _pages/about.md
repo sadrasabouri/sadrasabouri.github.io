@@ -49,40 +49,40 @@ Always happy to chat, collaborate, or just hear what you're working on; feel fre
 Open-sourcing research in NLP has lead to breakthroughs like ChatGPT, but generative AI also makes it easier to produce convincing yet flawed content in research communities.
 This poses a sense of Frankenstein-Trojan threat to scientific integrity.
 Committed to open science and reproducibility, I focus on building scientific software that ensures transparency.
-With a group of my friends, I co-founded [OpenSciLab](https://github.com/openscilab/) to develop open-source tools toward this goal.
+With a group of my friends, I co-founded <a href="https://github.com/openscilab/">OpenSciLab</a> to develop open-source tools toward this goal.
 <br><br>
-Below is a topic-based summary of my work, both through OpenSciLab and independent projects.
+Below is a topic-based summary of my work, both through OpenSciLab and independent projects: [TBD]
   <details>
     <summary style="margin-left: 1em;">Natural Language Processing (NLP) and Speech Processing</summary><div style="margin-left: 1em;">
-  
+    memor, parsipy, nava, naab, syntran-fa, speech-review, wav2vec2, pahgen, xnum, p-in-court, docalog, exprand, tocount
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Machine Learning (ML)</summary><div style="margin-left: 1em;">
-  
+    PyCM, 2bfair
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Network</summary><div style="margin-left: 1em;">
-  
+    pyrgg, ipspot, Pymilo, dmeta, mybutton, reserver
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Art</summary><div style="margin-left: 1em;">
-  
+    art, samila
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Human Computer Interaction (HCI)</summary><div style="margin-left: 1em;">
-  
+    Nafas, mytimer
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Chemistry</summary><div style="margin-left: 1em;">
-  
+    ECSIMs, ECSIM-dataset
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Biomedical Science</summary><div style="margin-left: 1em;">
-  
+    opr, drux
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Civil Engineering</summary><div style="margin-left: 1em;">
-  
+    representive-sample
   </div></details>
 </div></details>
 
