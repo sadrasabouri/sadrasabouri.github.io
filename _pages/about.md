@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey, this is Sadra! I’m currently studying my PhD in Computer Science at USC, working at the intersection of Human-Computer Interaction (HCI) and Natural Language Processing (NLP), i.e., making LLMs better friends of humans.
+Hey, this is Sadra! I’m currently studying PhD in Computer Science at USC, working at the intersection of Human-Computer Interaction (HCI) and Natural Language Processing (NLP), i.e., making LLMs better friends of humans.
 My current research focuses on helping people make better decisions using LLMs.
 On the side (and honestly, all the time), I build and maintain scientific software tools with a great team of open-source enthusiasts.
 I’m always looking for ways to make technology and science more accessible, and fun—believing that open-source software is an ideal contribution to scientific communities that value transparency and reproducibility.
@@ -20,7 +20,7 @@ I'm always curious to meet new people and hear about their journeys, so shoot me
 <summary style="margin-left: 1em;"><b>CS PhD @ USC ✌️</b></summary><div style="margin-left: 1em;">
 The main problem I'm trying to solve is the integration of AI systems into human workflows—specifically, answering the question: "What is the core part of a task that AI cannot do, and how can AI assist humans in doing that?"
 Helping humans tackle the hardest parts of their jobs—with AI as a consultant—is the overarching meta-goal of my current research.
-To address this, I've explored several domains where large language models (LLMs) have been introduced but face full-integration challenges. These include software developers trusting code agents for programming, strategic decision-making in the board game Diplomacy, and patients navigating conflicting medical advice.
+To address this, I've explored several domains where large language models (LLMs) have been introduced but face full-integration challenges. These include software developers trusting code agents for programming, strategic decision-making in the board game Diplomacy, patients navigating conflicting medical advice, users with different knowledge backgrounds asking factual questions and researchers looking for scientific discussions in social media.
 <br><br>
 I'm currently in my second year and looking forward to exploring more domains to develop a taxonomy of these challenges and a framework that identifies the right interaction patterns and integration points for AI.
 Throughout this journey, I've had the great opportunity to work with the Adaptive Computing Experience (ACE) Lab (Souti Chattopadhyay’s lab @ GCS) and [CUTE LAB NAME] (Jonathan May’s lab @ ISI).
