@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey stranger, this is Sadra. I’m currently studying my PhD in Computer Science at USC, working at the intersection of Human-Computer Interaction (HCI) and Natural Language Processing (NLP), i.e., making LLMs better friends of humans.
+Hey, this is Sadra! I’m currently studying my PhD in Computer Science at USC, working at the intersection of Human-Computer Interaction (HCI) and Natural Language Processing (NLP), i.e., making LLMs better friends of humans.
 My current research focuses on helping people make better decisions using LLMs.
 On the side (and honestly, all the time), I build and maintain scientific software tools with a great team of open-source enthusiasts.
 I’m always looking for ways to make technology and science more accessible, and fun—believing that open-source software is an ideal contribution to scientific communities that value transparency and reproducibility.
@@ -46,7 +46,44 @@ Always happy to chat, collaborate, or just hear what you're working on; feel fre
 
 <details>
 <summary style="margin-left: 1em;"><b>Open World Developer 🌐</b></summary><div style="margin-left: 1em;">
-...
+Open-sourcing research in NLP has lead to breakthroughs like ChatGPT, but generative AI also makes it easier to produce convincing yet flawed content in research communities.
+This poses a sense of Frankenstein-Trojan threat to scientific integrity.
+Committed to open science and reproducibility, I focus on building scientific software that ensures transparency.
+With a group of my friends, I co-founded [OpenSciLab](https://github.com/openscilab/) to develop open-source tools toward this goal.
+<br><br>
+Below is a topic-based summary of my work, both through OpenSciLab and independent projects.
+  <details>
+    <summary style="margin-left: 1em;">Natural Language Processing (NLP) and Speech Processing</summary><div style="margin-left: 1em;">
+  
+  </div></details>
+  <details>
+    <summary style="margin-left: 1em;">Machine Learning (ML)</summary><div style="margin-left: 1em;">
+  
+  </div></details>
+  <details>
+    <summary style="margin-left: 1em;">Network</summary><div style="margin-left: 1em;">
+  
+  </div></details>
+  <details>
+    <summary style="margin-left: 1em;">Art</summary><div style="margin-left: 1em;">
+  
+  </div></details>
+  <details>
+    <summary style="margin-left: 1em;">Human Computer Interaction (HCI)</summary><div style="margin-left: 1em;">
+  
+  </div></details>
+  <details>
+    <summary style="margin-left: 1em;">Chemistry</summary><div style="margin-left: 1em;">
+  
+  </div></details>
+  <details>
+    <summary style="margin-left: 1em;">Biomedical Science</summary><div style="margin-left: 1em;">
+  
+  </div></details>
+  <details>
+    <summary style="margin-left: 1em;">Civil Engineering</summary><div style="margin-left: 1em;">
+  
+  </div></details>
 </div></details>
 
 ### News
