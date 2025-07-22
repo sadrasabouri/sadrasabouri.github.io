@@ -51,7 +51,7 @@ This poses a sense of Frankenstein-Trojan threat to scientific integrity.
 Committed to open science and reproducibility, I focus on building scientific software that ensures transparency.
 With a group of my friends, I co-founded <a href="https://github.com/openscilab/">OpenSciLab</a> to develop open-source tools toward this goal.
 <br><br>
-Below is a topic-based summary of my work, including those through OpenSciLab, dataset releases and independent projects: [TBD]
+Below is a topic-based summary of my work, including those through OpenSciLab, dataset releases and independent projects:
   <details>
     <summary style="margin-left: 1em;">Natural Language Processing and Large Language Models</summary><div style="margin-left: 1em;">
     <!-- exprand -->
@@ -64,7 +64,6 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
       <a href="http://pepy.tech/project/memor"><img src="http://pepy.tech/badge/memor"></a><br>
       Memor is designed to help users manage the memory of their interactions with Large Language Models (LLMs). It enables users to access and utilize the history of their conversations when prompting LLMs. That would create a more personalized and context-aware experience. Users can select specific parts of past interactions with one LLM and share them with another. By bridging the gap between isolated LLM instances, Memor revolutionizes the way users interact with AI by making transitions between models smoother.
       </div></details>
-      <details>
       <details>
       <summary style="margin-left: 1em;">[JAIAI] <b>naab: A ready-to-use plug-and-play corpus for Farsi,</b> <b><u>Sadra Sabouri</u></b>, Elnaz Rahmati, Soroush Gooran, Hossein Sameti</summary><div style="margin-left: 1em;">
       <a href="https://arxiv.org/pdf/2208.13486" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Paper</div></a>
