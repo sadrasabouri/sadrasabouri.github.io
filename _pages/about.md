@@ -57,7 +57,35 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
     <!-- exprand -->
     <!-- tocount -->
     <!-- xnum -->
-    memor, naab, parsipy, syntran-fa, pahgen, docalog
+      <details>
+      <summary style="margin-left: 1em;">Memor: Managing and Transferring Conversational Memory Across LLMs</summary><div style="margin-left: 1em;">
+      <a href="https://github.com/openscilab/memor/"><img src="https://img.shields.io/github/stars/openscilab/memor.svg?style=social&logo=github&label=Stars"></a>
+      <a href="https://github.com/openscilab/memor/"><img src="https://img.shields.io/github/forks/openscilab/memor.svg?style=social&logo=github&label=Forks"></a>
+      <a href="http://pepy.tech/project/memor"><img src="http://pepy.tech/badge/memor"></a><br>
+      Memor is designed to help users manage the memory of their interactions with Large Language Models (LLMs). It enables users to access and utilize the history of their conversations when prompting LLMs. That would create a more personalized and context-aware experience. Users can select specific parts of past interactions with one LLM and share them with another. By bridging the gap between isolated LLM instances, Memor revolutionizes the way users interact with AI by making transitions between models smoother.
+      </div></details>
+      <details>
+      <details>
+      <summary style="margin-left: 1em;">[JAIAI] <b>naab: A ready-to-use plug-and-play corpus for Farsi,</b> <b><u>Sadra Sabouri</u></b>, Elnaz Rahmati, Soroush Gooran, Hossein Sameti</summary><div style="margin-left: 1em;">
+      <a href="https://arxiv.org/pdf/2208.13486" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Paper</div></a>
+      <a href="https://huggingface.co/datasets/SLPL/naab" style="text-decoration: none;"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Data-blue"></a><br>
+      The issue of large training data is (was at that time :D) emerging more in lower resource languages - like Farsi. We propose naab a hue cleaned and ready-to-use open-source textual corpus in Farsi. It contains about 130GB of data, 250 million paragraphs, and 15 billion words. The project name is derived from the Farsi word NAAB which means pure and high grade.
+      </div></details>
+      <details>
+      <summary style="margin-left: 1em;">[ALP@NAACL25] <b>Parsipy: NLP toolkit for historical persian texts in Python,</b> Farhan Farsi, Parnian Fazel, Sepand Haghighi, <b><u>Sadra Sabouri</u></b>, Farzaneh Goshtasb, Nadia Hajipour, Ehsaneddin Asgari, Hossein Sameti</summary><div style="margin-left: 1em;">
+      <a href="https://aclanthology.org/2025.alp-1.17.pdf" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Paper</div></a><br>
+      The study of historical languages presents unique challenges due to their complex orthographic systems, fragmentary textual evidence, and the absence of standardized digital representations of text in those languages. This work introduces an NLP toolkit designed to facilitate the analysis of historical Persian languages by offering modules for tokenization, lemmatization, part-of-speech tagging, phoneme-to-transliteration conversion, and word embedding.
+      </div></details>
+      <details>
+      <summary style="margin-left: 1em;">[LoResMT@NAACL25] <b>PahGen: Generating Ancient Pahlavi Text via Grammar-guided Zero-shot Translation,</b> Farhan Farsi, Parnian Fazel, Farzaneh Goshtasb, Nadia Hajipour, <b><u>Sadra Sabouri</u></b>, Ehsaneddin Asgari, Hossein Sameti</summary><div style="margin-left: 1em;">
+      <a href="https://aclanthology.org/2025.loresmt-1.16.pdf" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Paper</div></a><br>
+      Due to Pahlavi (middle Persian)'s limited digital presence and the scarcity of comprehensive linguistic resources, Pahlavi is at risk of extinction. This study introduces a framework to translate English text into Pahlavi. Our approach combines grammar-guided term extraction with zero-shot translation, leveraging large language models (LLMs) to generate syntactically and semantically accurate Pahlavi sentences. Finally using our framework, we generate a novel dataset of 360 expert-validated parallel English-Pahlavi texts.
+      </div></details>
+      <details>
+      <summary style="margin-left: 1em;">[DialDoc@ACL22] <b>Docalog: Multi-document Dialogue System using Transformer-based Span Retrieval,</b> Sayed Hesam Alavian, Ali Satvaty, <b><u>Sadra Sabouri</u></b>, Ehsaneddin Asgari, Hossein Sameti</summary><div style="margin-left: 1em;">
+      <a href="https://aclanthology.org/2022.dialdoc-1.16.pdf" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Paper</div></a><br>
+      This paper discusses our proposed approach, Docalog, for the DialDoc-22 (MultiDoc2Dial) shared task which was part of my BSc. thesis. Docalog, has a three-stage pipeline consisting of (1) a document retriever model, (2) an answer span prediction model, and (3) an ultimate span picker deciding on the most likely answer span, out of all predicted spans.
+      </div></details>
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Speech Processing</summary><div style="margin-left: 1em;">
