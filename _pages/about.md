@@ -35,7 +35,7 @@ You can find some of my publications below:
     <summary style="margin-left: 1em;">[ACL25] <b>ELI-Why: Evaluating the Pedagogical Utility of Language Model Explanations,</b> Brihi Joshi, Keyu He, Sahana Ramnath, <b><u>Sadra Sabouri</u></b>, Kaitlyn Zhou, Souti Chattopadhyay, Swabha Swayamdipta, Xiang Ren</summary><div style="margin-left: 1em;">
     <a href="https://arxiv.org/pdf/2506.14200" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Paper</div></a>
     <a href="https://github.com/INK-USC/ELI-Why" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Code</div></a>
-    <a href="https://huggingface.co/collections/INK-USC/eli-why-6849086c86556f7a2dd7c686" style="text-decoration: none;"><div style="display: inline-block;padding: 6px 12px;background-color: #007BFF;color: white;border-radius: 4px;font-size: 14px;text-align: center;cursor: pointer;">Data</div></a><br>
+    <a href="https://huggingface.co/collections/INK-USC/eli-why-6849086c86556f7a2dd7c686" style="text-decoration: none;"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Data-blue"></a><br>
     We investigate how well language models adapt explanations to learners with varying educational backgrounds using ELI-Why, a benchmark of 13.4K "Why" questions. Through two human studies, we found that GPT-4 explanations align with intended grade levels only 50% of the time and are rated 20% less suitable for learners’ needs compared to layperson-curated responses, revealing limitations in their pedagogical adaptability.
   </div></details>
 <br>
@@ -61,7 +61,19 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Speech Processing</summary><div style="margin-left: 1em;">
-    nava, wav2vec2
+      <details>
+        <summary style="margin-left: 1em;">Nava: OS-Native Sound Engine in Python</summary><div style="margin-left: 1em;">
+        <a href="https://github.com/openscilab/nava/"><img src="https://img.shields.io/github/stars/openscilab/nava.svg?style=social&logo=github&label=Stars"></a>
+        <a href="https://github.com/openscilab/nava/"><img src="https://img.shields.io/github/forks/openscilab/nava.svg?style=social&logo=github&label=Forks"></a>
+        <a href="http://pepy.tech/project/nava"><img src="http://pepy.tech/badge/nava"></a><br>
+        Nava allows users to play sound in Python without any dependencies or platform restrictions. It is a cross-platform solution that runs on any operating system, including Windows, macOS, and Linux. Its lightweight and easy-to-use design makes Nava an ideal choice for developers looking to add sound functionality to their Python programs.
+      </div></details>
+      <details>
+        <summary style="margin-left: 1em;">Sharif-Wav2Vec2.0: Wave2Vec2.0 Speech Processing Model Tailored for Farsi</summary><div style="margin-left: 1em;">
+        <a href="https://huggingface.co/SLPL/Sharif-wav2vec2" style="text-decoration: none;"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a><br>
+        The base model fine-tuned on 108 hours of Commonvoice's Farsi audio. Token set and the language models of that model changed to support special nuances of Farsi which wasn't there in English.
+        More technically, we trained a 5gram using kenlm toolkit and used it in the processor which increased our accuracy on online ASR.
+      </div></details>
   </div></details>
   <details>
     <summary style="margin-left: 1em;">Machine Learning (ML)</summary><div style="margin-left: 1em;">
