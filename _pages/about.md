@@ -22,8 +22,6 @@ redirect_from:
   background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
   font-weight: bold;
   transition: all 0.3s ease;
-  display: list-item;
-  list-style: none;
   position: relative;
 }
 
@@ -142,7 +140,7 @@ You can find some of my publications below:
 <br>
 Always happy to chat, collaborate, or just hear what you're working on; feel free to reach out!
 </div></details>
-<hr>
+
 <details class="section-details">
 <summary><b>Open World Developer 🌐</b></summary><div>
 Open-sourcing research in NLP has lead to breakthroughs like ChatGPT, but generative AI also makes it easier to produce convincing yet flawed content in research communities.
