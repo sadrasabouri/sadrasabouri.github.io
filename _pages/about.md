@@ -35,7 +35,7 @@ redirect_from:
 }
 
 .section-details > summary:before {
-  content: "▶";
+  /* content: "▶"; */
   position: absolute;
   left: 12px;
   transition: transform 0.3s ease;
@@ -93,7 +93,7 @@ redirect_from:
   font-size: 14px;
   text-align: center;
   cursor: pointer;
-  text-decoration: none;
+  text-decoration: none !important;
   margin-right: 8px;
   margin-bottom: 4px;
   transition: background-color 0.2s ease;
@@ -102,7 +102,7 @@ redirect_from:
 .paper-button:hover {
   background-color: #0056b3;
   color: white;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 </style>
 
