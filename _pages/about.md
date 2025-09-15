@@ -270,7 +270,7 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
       </div></details>
   </div></details>
   <details class="subsection-details">
-    <summary>Chemistry</summary><div>
+    <summary>Chemical Data Science</summary><div>
     <!-- Amin's paper -->
       <details class="subsection-details">
         <summary><b>Experimental dataset of electrochemical efficiency of a Direct Borohydride Fuel Cell (DBFC) with Pd/C, Pt/C and Pd decorated Ni–Co/rGO anode catalysts,</b> Sarmin Hamidi, <b><u>Sadra Sabouri</u></b>, Sepand Haghighi, Kasra Askari</summary><div>
@@ -288,7 +288,7 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
       </div></details>
   </div></details>
   <details class="subsection-details">
-    <summary>Biomedical Science</summary><div>
+    <summary>Biomedical Data Science</summary><div>
       <!-- drux -->
       <details class="subsection-details">
         <summary>OPR: Optimized Primer Design Tool</summary><div>
@@ -299,7 +299,7 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
       </div></details>
   </div></details>
   <details class="subsection-details">
-    <summary>Civil Engineering</summary><div>
+    <summary>Environmental Data Science</summary><div>
       <details class="subsection-details">
         <summary>[AGU-WRR24] <b>Representative sample size for estimating saturated hydraulic conductivity via machine learning: A proof‐of‐concept study,</b> Amin Ahmadisharaf, Reza Nematirad, <b><u>Sadra Sabouri</u></b>, Yakov Pachepsky, Behzad Ghanbarian</summary><div>
         <a href="https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2023WR036783" class="paper-button">Paper</a><br>
