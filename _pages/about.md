@@ -122,7 +122,11 @@ I'm currently in my second year and looking forward to exploring more domains to
 Throughout this journey, I've had the great opportunity to work with the Adaptive Computing Experience (ACE) Lab (Souti Chattopadhyay's lab @ GCS) and [CUTE LAB NAME] (Jonathan May's lab @ ISI).
 <br><br>
 You can find some of my publications below:
-  <!-- Philipp's paper -->
+  <details class="subsection-details">
+    <summary>[VL/HCC25] <b>Exploring the Challenges and Opportunities of AI-assisted Codebase Generation,</b> Philipp Eibl, <b><u>Sadra Sabouri</u></b>, Souti Chattopadhyay</summary><div>
+    <a href="https://arxiv.org/pdf/2508.07966" class="paper-button">Paper</a><br>
+    We explored how LLMs reshape software development through "vibe-coding," where developers rely on iterative prompting an LLM for buildign a software without traditional meaning of coding. We show how this shift blurs boundaries between ideation, coding, and debugging, and potentially can make software development more collaborative.
+  </div></details>
   <details class="subsection-details">
     <summary>[ICSE25] <b>Trust dynamics in AI-assisted development: Definitions, factors, and implications,</b> <b><u>Sadra Sabouri</u></b>, Philipp Eibl, Xinyi Zhou, Morteza Ziyadi, Nenad Medvidovic, Lars Lindemann, Souti Chattopadhyay</summary><div>
     <a href="https://www.amazon.science/publications/trust-dynamics-in-ai-assisted-development-definitions-factors-and-implications" class="paper-button">Paper</a><br>
@@ -150,8 +154,20 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
   <details class="subsection-details">
     <summary>Natural Language Processing and Large Language Models</summary><div>
     <!-- exprand -->
-    <!-- tocount -->
-    <!-- xnum -->
+      <details class="subsection-details">
+      <summary>ToCount: Lightweight Token Estimator</summary><div>
+      <a href="https://github.com/openscilab/tocount/"><img src="https://img.shields.io/github/stars/openscilab/tocount.svg?style=social&logo=github&label=Stars"></a>
+      <a href="https://github.com/openscilab/tocount/"><img src="https://img.shields.io/github/forks/openscilab/tocount.svg?style=social&logo=github&label=Forks"></a>
+      <a href="http://pepy.tech/project/tocount"><img src="http://pepy.tech/badge/tocount"></a><br>
+      ToCount is a lightweight Python library for estimating the token counts for input to an LLM using rule-based and ML methods. It offers a fast, flexible interface for prompt analysis, token budgeting, and optimizing interactions with token-based systems.
+      </div></details>
+      <details class="subsection-details">
+      <summary>XNum: Universal Numeral System Converter</summary><div>
+      <a href="https://github.com/openscilab/xnum/"><img src="https://img.shields.io/github/stars/openscilab/xnum.svg?style=social&logo=github&label=Stars"></a>
+      <a href="https://github.com/openscilab/xnum/"><img src="https://img.shields.io/github/forks/openscilab/xnum.svg?style=social&logo=github&label=Forks"></a>
+      <a href="http://pepy.tech/project/xnum"><img src="http://pepy.tech/badge/xnum"></a><br>
+      XNum is a Python library for converting digits across numeral systems (English, Persian, Hindi, Arabic-Indic, Bengali, etc.). It auto-detects mixed formats and cleanly converts only the numbers, making multilingual and localized data handling simple.
+      </div></details>
       <details class="subsection-details">
       <summary>Memor: Managing and Transferring Conversational Memory Across LLMs</summary><div>
       <a href="https://github.com/openscilab/memor/"><img src="https://img.shields.io/github/stars/openscilab/memor.svg?style=social&logo=github&label=Stars"></a>
@@ -289,7 +305,13 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
   </div></details>
   <details class="subsection-details">
     <summary>Biomedical Data Science</summary><div>
-      <!-- drux -->
+      <details class="subsection-details">
+        <summary>Drux: Drug Release Analysis Framework</summary><div>
+        <a href="https://github.com/openscilab/drux"><img src="https://img.shields.io/github/stars/openscilab/drux.svg?style=social&logo=github&label=Stars"></a>
+        <a href="https://github.com/openscilab/drux"><img src="https://img.shields.io/github/forks/openscilab/drux.svg?style=social&logo=github&label=Forks"></a>
+        <a href="http://pepy.tech/project/drux"><img src="http://pepy.tech/badge/drux"></a><br>
+        Drux is a Python framework for simulating and visualizing drug release profiles with mathematical models. It provides a simple, extensible, and reproducible platform for quantitative analysis in pharmaceutical research.
+      </div></details>
       <details class="subsection-details">
         <summary>OPR: Optimized Primer Design Tool</summary><div>
         <a href="https://github.com/openscilab/opr"><img src="https://img.shields.io/github/stars/openscilab/opr.svg?style=social&logo=github&label=Stars"></a>
@@ -309,6 +331,8 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
 </div></details>
 
 ### News
+
+Aug 2025: Our paper titled "[Exploring the Challenges and Opportunities of AI-assisted Codebase Generation](https://arxiv.org/pdf/2508.07966)" got accepted into IEEE Symposium on Visual Languages and Human-Centric Computing 2025. In this paper we investigated how software developers interact with the current "vibe-coding" framework such as GitHub Copilot and Cursos AI. I will present this work at VLHCC in Raleigh, NC, Oct 7th-10th.
 
 Mar 2025: Python Software Foundation (PSF) granted our work, [Nava library](https://github.com/openscilab/nava), for adding new OS-based sound engines, and integrating into notebooks.
 
