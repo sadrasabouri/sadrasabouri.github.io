@@ -328,7 +328,6 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
 
 ### News
 
-<small>
 - Aug 2025: Our paper titled "[Exploring the Challenges and Opportunities of AI-assisted Codebase Generation](https://arxiv.org/pdf/2508.07966)" got accepted into IEEE Symposium on Visual Languages and Human-Centric Computing 2025. In this paper we investigated how software developers interact with the current "vibe-coding" framework such as GitHub Copilot and Cursos AI. I will present this work at VLHCC in Raleigh, NC, Oct 7th-10th.
 
 - Mar 2025: Python Software Foundation (PSF) granted our work, [Nava library](https://github.com/openscilab/nava), for adding new OS-based sound engines, and integrating into notebooks.
@@ -340,5 +339,3 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
 - Sep 2024: I was awarded a [Trelis AI Grant](https://trelis.com/trelis-ai-grants/) for developing a RESTful API for PyCM, enhancing accessibility to machine learning statistical post-processing tools.
 
 - May 2024: Python Software Foundation (PSF) granted our work, [ASCII Art library](https://github.com/sepandhaghighi/art), for developing the library and add new features like multi-line arts, and supporting custom fonts.
-
-</small>
