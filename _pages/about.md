@@ -104,12 +104,10 @@ redirect_from:
 }
 </style>
 
-Hey, this is Sadra! I'm currently studying PhD in Computer Science at USC, working at the intersection of Human-Computer Interaction (HCI) and Natural Language Processing (NLP), i.e., making LLMs better friends of humans.
-My current research focuses on helping people make better decisions using LLMs.
-On the side (and honestly, all the time), I build and maintain scientific software tools with a great team of open-source enthusiasts.
-I'm always looking for ways to make technology and science more accessible, and fun—believing that open-source software is an ideal contribution to scientific communities that value transparency and reproducibility.
-I enjoy watching movies and hunting for new places whenever I travel in my free time.
-I'm always curious to meet new people and hear about their journeys, so shoot me an email or DM me on any social media!
+Hey, this is Sadra! I'm a PhD student in Computer Science at USC, working at the intersection of HCI and NLP to make LLMs better friends of humans. My research focuses on helping people make better decisions using LLMs.
+I also build and maintain scientific software tools with a great team of open-source enthusiasts. I believe open-source software is key to making technology and science accessible, transparent, and fun.
+In my free time, I enjoy watching movies and exploring new places and activities. I'm always happy to meet new people and hear about their journeys—shoot me an email or DM if you want to chat!
+
 <details class="section-details">
 <summary><b>CS PhD @ USC ✌️</b></summary><div>
 The main problem I'm trying to solve is the integration of AI systems into human workflows—specifically, answering the question: "What is the core part of a task that AI cannot do, and how can AI assist humans in doing that?"
