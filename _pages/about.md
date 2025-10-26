@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 <style>
-/* Page layout for news positioning */
-.page__content-wrapper {
-  position: relative;
-}
-
 /* Consolidated styling for better cohesion */
 .section-details {
   margin-left: 1em;
@@ -107,54 +102,7 @@ redirect_from:
   color: white;
   text-decoration: none !important;
 }
-
-.news-container {
-  position: absolute;
-  top: 0;
-  right: -16.67%;  /* This moves it into the suffix(2 of 12) space */
-  width: 14%;
-  font-size: 0.65em;
-  line-height: 1.3;
-  padding: 1em;
-  background-color: #f8f9fa;
-  border-radius: 6px;
-  border-left: 3px solid #dee2e6;
-}
-
-.news-container h3 {
-  margin-top: 0;
-  font-size: 1em;
-  padding-bottom: 0.5em;
-  border-bottom: 2px solid #007BFF;
-}
-
-.news-container ul {
-  list-style: none;
-  padding-left: 0;
-}
-
-.news-container li {
-  margin-bottom: 1em;
-  padding-bottom: 1em;
-  border-bottom: 1px solid #e9ecef;
-  font-size: 0.9em;
-}
-
-.news-container li:last-child {
-  border-bottom: none;
-}
-
-@media (max-width: 1200px) {
-  .news-container {
-    position: relative;
-    right: auto;
-    width: 100%;
-    margin-top: 2em;
-  }
-}
 </style>
-
-<div class="page__content-wrapper">
 
 Hey, this is Sadra! I'm a PhD student in Computer Science at USC, working at the intersection of HCI and NLP to make LLMs better friends of humans. My research focuses on helping people make better decisions using LLMs.
 I also build and maintain scientific software tools with a great team of open-source enthusiasts. I believe open-source software is key to making technology and science accessible, transparent, and fun.
@@ -378,9 +326,9 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
   </div></details>
 </div></details>
 
-<div class="news-container">
 ### News
 
+<small>
 - Aug 2025: Our paper titled "[Exploring the Challenges and Opportunities of AI-assisted Codebase Generation](https://arxiv.org/pdf/2508.07966)" got accepted into IEEE Symposium on Visual Languages and Human-Centric Computing 2025. In this paper we investigated how software developers interact with the current "vibe-coding" framework such as GitHub Copilot and Cursos AI. I will present this work at VLHCC in Raleigh, NC, Oct 7th-10th.
 
 - Mar 2025: Python Software Foundation (PSF) granted our work, [Nava library](https://github.com/openscilab/nava), for adding new OS-based sound engines, and integrating into notebooks.
@@ -392,6 +340,5 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
 - Sep 2024: I was awarded a [Trelis AI Grant](https://trelis.com/trelis-ai-grants/) for developing a RESTful API for PyCM, enhancing accessibility to machine learning statistical post-processing tools.
 
 - May 2024: Python Software Foundation (PSF) granted our work, [ASCII Art library](https://github.com/sepandhaghighi/art), for developing the library and add new features like multi-line arts, and supporting custom fonts.
-</div>
 
-</div>
+</small>
