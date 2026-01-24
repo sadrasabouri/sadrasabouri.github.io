@@ -104,17 +104,18 @@ redirect_from:
 }
 </style>
 
-Hey, this is Sadra! I'm a PhD student in Computer Science at USC, working at the intersection of HCI and NLP to make LLMs better friends of humans. My research focuses on helping people make better decisions using LLMs.
-I also build and maintain scientific software tools with a great team of open-source enthusiasts. I believe open-source software is key to making technology and science accessible, transparent, and fun.
+Hey, this is Sadra! I'm a Computer Science PhD student in at University of Southern California, working at the intersection of HCI and NLP to make LLMs better friends of humans. My research goal is to help people make better decisions with the help of LLMs.
+I also develop scientific software tools with a great team of open-source enthusiasts. I believe open-source software is the key to making technology and science accessible, transparent, and fun.
 In my free time, I enjoy watching movies and exploring new places and activities. I'm always happy to meet new people and hear about their journeys—shoot me an email or DM if you want to chat!
+
+Open the following tabs to learn more about me:
 
 <details class="section-details">
 <summary><b>CS PhD @ USC ✌️</b></summary><div>
-The main problem I'm trying to solve is the integration of AI systems into human workflows—specifically, answering the question: "What is the core part of a task that AI cannot do, and how can AI assist humans in doing that?"
-Helping humans tackle the hardest parts of their jobs—with AI as a consultant—is the overarching meta-goal of my current research.
-To address this, I've explored several domains where large language models (LLMs) have been introduced but face full-integration challenges. These include software developers trusting code agents for programming, strategic decision-making in the board game Diplomacy, patients navigating conflicting medical advice, users with different knowledge backgrounds asking factual questions and researchers looking for scientific discussions in social media.
+The main problem I'm trying to explore is the challenges and solutions for integration of AI systems into human workflows. Specifically, I'm more interested in answering the question: "What is the core part of a task that AI cannot do, and how can AI assist humans in doing that?"
+To address this, I've explored several domains where large language models (LLMs) have been introduced but face full-integration challenges. These include software developers interacting with the code agents, strategic strategic decision-maker who use AI advisors, patients navigating conflicting medical advice, users with different knowledge backgrounds asking questions.
 <br><br>
-I'm currently in my second year and looking forward to exploring more domains to develop a taxonomy of these challenges and a framework that identifies the right interaction patterns and integration points for AI.
+I'm currently in my third year and looking forward to exploring more domains to develop a taxonomy of these challenges and a framework that identifies the right interaction patterns and integration points for AI.
 Throughout this journey, I've had the great opportunity to work with the Adaptive Computing Experience (ACE) Lab (Souti Chattopadhyay's lab @ GCS) and [CUTE LAB NAME] (Jonathan May's lab @ ISI).
 <br><br>
 You can find some of my publications below:
@@ -328,7 +329,8 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
 
 ### News
 
-- Aug 2025: Our paper titled "[Exploring the Challenges and Opportunities of AI-assisted Codebase Generation](https://arxiv.org/pdf/2508.07966)" got accepted into IEEE Symposium on Visual Languages and Human-Centric Computing 2025. In this paper we investigated how software developers interact with the current "vibe-coding" framework such as GitHub Copilot and Cursos AI. I will present this work at VLHCC in Raleigh, NC, Oct 7th-10th.
+<small>
+- Aug 2025: "[Exploring the Challenges and Opportunities of AI-assisted Codebase Generation](https://arxiv.org/pdf/2508.07966)" got accepted into VLHCC 2025. In this paper we investigated how software developers interact with the current "vibe-coding" framework such as GitHub Copilot and Cursos AI.
 
 - Mar 2025: Python Software Foundation (PSF) granted our work, [Nava library](https://github.com/openscilab/nava), for adding new OS-based sound engines, and integrating into notebooks.
 
@@ -339,3 +341,4 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
 - Sep 2024: I was awarded a [Trelis AI Grant](https://trelis.com/trelis-ai-grants/) for developing a RESTful API for PyCM, enhancing accessibility to machine learning statistical post-processing tools.
 
 - May 2024: Python Software Foundation (PSF) granted our work, [ASCII Art library](https://github.com/sepandhaghighi/art), for developing the library and add new features like multi-line arts, and supporting custom fonts.
+</small>
