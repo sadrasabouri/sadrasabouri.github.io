@@ -106,7 +106,7 @@ redirect_from:
 
 Hey, this is Sadra! I'm a Computer Science PhD student in at University of Southern California, working at the intersection of HCI and NLP to make LLMs better friends of humans. My research goal is to help people make better decisions with the help of LLMs.
 I also develop scientific software tools with a great team of open-source enthusiasts. I believe open-source software is the key to making technology and science accessible, transparent, and fun.
-In my free time, I enjoy watching movies and exploring new places and activities. I'm always happy to meet new people and hear about their journeys—shoot me an email or DM if you want to chat!
+In my free time, I enjoy watching movies and exploring new places and activities. I'm always happy to meet new people and hear about their journeys, shoot me an email or DM if you want to chat!
 
 Open the following tabs to learn more about me:
 
@@ -329,7 +329,6 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
 
 ### News
 
-<small>
 - Aug 2025: "[Exploring the Challenges and Opportunities of AI-assisted Codebase Generation](https://arxiv.org/pdf/2508.07966)" got accepted into VLHCC 2025. In this paper we investigated how software developers interact with the current "vibe-coding" framework such as GitHub Copilot and Cursos AI.
 
 - Mar 2025: Python Software Foundation (PSF) granted our work, [Nava library](https://github.com/openscilab/nava), for adding new OS-based sound engines, and integrating into notebooks.
@@ -341,4 +340,3 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
 - Sep 2024: I was awarded a [Trelis AI Grant](https://trelis.com/trelis-ai-grants/) for developing a RESTful API for PyCM, enhancing accessibility to machine learning statistical post-processing tools.
 
 - May 2024: Python Software Foundation (PSF) granted our work, [ASCII Art library](https://github.com/sepandhaghighi/art), for developing the library and add new features like multi-line arts, and supporting custom fonts.
-</small>
