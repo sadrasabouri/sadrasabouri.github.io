@@ -102,6 +102,12 @@ redirect_from:
   color: white;
   text-decoration: none !important;
 }
+
+<style>
+table, th, td {
+  border: none;
+  border-collapse: collapse;
+}
 </style>
 
 Hi, I'm Sadra! I’m a CS PhD student at USC researching the intersection of HCI and NLP to build LLMs that empower human decision-making.
