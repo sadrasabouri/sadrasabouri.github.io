@@ -104,11 +104,11 @@ redirect_from:
 }
 </style>
 
-Hey, this is Sadra! I'm a Computer Science PhD student in at University of Southern California, working at the intersection of HCI and NLP to make LLMs better friends of humans. My research goal is to help people make better decisions with the help of LLMs.
-I also develop scientific software tools with a great team of open-source enthusiasts. I believe open-source software is the key to making technology and science accessible, transparent, and fun.
-In my free time, I enjoy watching movies and exploring new places and activities. I'm always happy to meet new people and hear about their journeys, shoot me an email or DM if you want to chat!
+Hi, I'm Sadra! I’m a CS PhD student at USC researching the intersection of HCI and NLP to build LLMs that empower human decision-making.
+Beyond research, I co-lead an open-source team developing scientific software tools to make technology more accessible, transparent, and fun. When I'm not coding or writing, I'm usually catching a movie or exploring new places in LA.
+I'm always happy to chat about research or shared journeys; feel free to reach out!
 
-Open the following tabs to learn more about me:
+Explore more:
 
 <details class="section-details">
 <summary><b>CS PhD @ USC ✌️</b></summary><div>
