@@ -120,6 +120,11 @@ Throughout this journey, I've had the great opportunity to work with the Adaptiv
 <br><br>
 You can find some of my publications below:
   <details class="subsection-details">
+    <summary>[UIST25] <b>Beyond the Page: Enriching Academic Paper Reading with Social Media Discussions,</b> Run Huang, Anna Katherine Zhao, Zeinabsadat Saghi, <b><u>Sadra Sabouri</u></b>, Souti Chattopadhyay</summary><div>
+    <a href="https://dl.acm.org/doi/pdf/10.1145/3746059.3747647" class="paper-button">Paper</a><br>
+    We developed a research prototype that integrates paper reading with informal social media insights to bridge the gap between structured scholarly text and dynamic peer discourse. Through a formative study with eight researchers, we explored how this integration can expand academic perspectives while minimizing the cognitive overload and distractions typical of social streams.
+  </div></details>
+  <details class="subsection-details">
     <summary>[VL/HCC25] <b>Exploring the Challenges and Opportunities of AI-assisted Codebase Generation,</b> Philipp Eibl, <b><u>Sadra Sabouri</u></b>, Souti Chattopadhyay</summary><div>
     <a href="https://arxiv.org/pdf/2508.07966" class="paper-button">Paper</a><br>
     We explored how LLMs reshape software development through "vibe-coding," where developers rely on iterative prompting an LLM for buildign a software without traditional meaning of coding. We show how this shift blurs boundaries between ideation, coding, and debugging, and potentially can make software development more collaborative.
@@ -151,6 +156,8 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
   <details class="subsection-details">
     <summary>Natural Language Processing and Large Language Models</summary><div>
     <!-- exprand -->
+    <!-- LLM parosody -->
+    <!-- r/cmv -->
       <details class="subsection-details">
       <summary>ToCount: Lightweight Token Estimator</summary><div>
       <a href="https://github.com/openscilab/tocount/"><img src="https://img.shields.io/github/stars/openscilab/tocount.svg?style=social&logo=github&label=Stars"></a>
@@ -237,8 +244,8 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
         IPSpot retrieves the system's IP address and location information. It supports public and private IPv4 and IPv6 detection using multiple API providers with a fallback mechanism for reliability.
       </div></details>
       <details class="subsection-details">
-        <summary><b>Pymilo: A python library for ml I/O,</b> AmirHosein Rostami, Sepand Haghighi, <b><u>Sadra Sabouri</u></b>, Alireza Zolanvari</summary><div>
-        <a href="https://arxiv.org/pdf/2501.00528" class="paper-button">Paper</a>
+        <summary>[JOSS] <b>Pymilo: A python library for ml I/O,</b> AmirHosein Rostami, Sepand Haghighi, <b><u>Sadra Sabouri</u></b>, Alireza Zolanvari</summary><div>
+        <a href="https://joss.theoj.org/papers/10.21105/joss.08858" class="paper-button">Paper</a>
         <a href="https://github.com/openscilab/pymilo"><img src="https://img.shields.io/github/stars/openscilab/pymilo.svg?style=social&logo=github&label=Stars"></a>
         <a href="https://github.com/openscilab/pymilo"><img src="https://img.shields.io/github/forks/openscilab/pymilo.svg?style=social&logo=github&label=Forks"></a>
         <a href="http://pepy.tech/project/pymilo"><img src="http://pepy.tech/badge/pymilo"></a><br>
@@ -284,7 +291,13 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
   </div></details>
   <details class="subsection-details">
     <summary>Chemical Data Science</summary><div>
-    <!-- Amin's paper -->
+      <details class="subsection-details">
+        <summary>[JPCC] <b>ReaxFF Parameter Set for Boron Clusters and Icosahedral Boron Crystals: Comparison with Density Functional Theory and Machine-Learning Potentials,</b> Amin Ahmadisharaf, Adri CT Van Duin, Bin Liu, Dylan Evans, <b><u>Sadra Sabouri</u></b>, Jeffrey Comer</summary><div>
+        <a href="https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5c04822" class="paper-button">Paper</a>
+        <a href="https://github.com/ECSIM/dbfc-dataset"><img src="https://img.shields.io/github/stars/ECSIM/dbfc-dataset.svg?style=social&logo=github&label=Stars"></a>
+        <a href="https://github.com/ECSIM/dbfc-dataset"><img src="https://img.shields.io/github/forks/ECSIM/dbfc-dataset.svg?style=social&logo=github&label=Forks"></a><br>
+        We refined a set of ReaxFF parameters to enable the computational prediction of synthesis conditions for high-quality icosahedral boron crystals. By matching the relative energies of small B80 clusters to density functional theory (DFT) data, we developed a model that accurately captures the nucleation and growth phases of these materials. This approach addresses a major barrier in developing icosahedral boron for its potential applications in semiconductors and energy storage.
+      </div></details>
       <details class="subsection-details">
         <summary><b>Experimental dataset of electrochemical efficiency of a Direct Borohydride Fuel Cell (DBFC) with Pd/C, Pt/C and Pd decorated Ni–Co/rGO anode catalysts,</b> Sarmin Hamidi, <b><u>Sadra Sabouri</u></b>, Sepand Haghighi, Kasra Askari</summary><div>
         <a href="https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/60c74a3e469df423a9f43ce2/original/experimental-dataset-of-electrochemical-efficiency-of-a-direct-borohydride-fuel-cell-dbfc-with-pd-c-pt-c-and-pd-decorated-ni-co-r-go-anode-catalysts.pdf" class="paper-button">Paper</a>
