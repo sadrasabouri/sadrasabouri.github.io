@@ -331,11 +331,10 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
 
 | Date | Event/Project | Highlights |
 | --- | --- | --- |
-| April 2026 | **ICSE 2026** | [Paper](https://arxiv.org/abs/2601.08045) on developers' cognitive biases when working with LLMs. |
 | Jan 2026 | **Tinker Research Grant** | Our project funded by Thinking Machines Lab for Persian prosody-informed LLMs. |
 | Aug 2025 | **VL/HCC 2025** | [Paper](https://arxiv.org/pdf/2508.07966) on AI-assisted codebase generation ("vibe-coding") accepted. |
 | Mar 2025 | **PSF Grant** | [Nava library](https://github.com/openscilab/nava) awarded funding for OS-based sound engines. |
 | Feb 2025 | **NLnet Grant** | [PyCM library](https://github.com/sepandhaghighi/pycm) funded by NGI0 Commons for distance similarity and benchmarking. |
 | Jan 2025 | **ICSE 2025** | [Paper](https://www.amazon.science/publications/trust-dynamics-in-ai-assisted-development-definitions-factors-and-implications) on Trust Dynamics in AI-assisted development accepted. |
-| Sep 2024 | **Trelis AI Grant** | Developed a RESTful API for PyCM statistical post-processing tools. |
-| May 2024 | **PSF Grant** | [Art library](https://github.com/sepandhaghighi/art) awarded funding for multi-line and custom font features. |
+| Sep 2024 | **Trelis AI Grant** | Our project for developing a RESTful API for PyCM statistical post-processing tools got minor fund. |
+| May 2024 | **PSF Grant** | [Art library](https://github.com/sepandhaghighi/art) awarded funding for adding multi-line and custom font features. |
