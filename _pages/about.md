@@ -329,14 +329,11 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
 
 ### News
 
-- Aug 2025: "[Exploring the Challenges and Opportunities of AI-assisted Codebase Generation](https://arxiv.org/pdf/2508.07966)" got accepted into VLHCC 2025. In this paper we investigated how software developers interact with the current "vibe-coding" framework such as GitHub Copilot and Cursos AI.
-
-- Mar 2025: Python Software Foundation (PSF) granted our work, [Nava library](https://github.com/openscilab/nava), for adding new OS-based sound engines, and integrating into notebooks.
-
-- Feb 2025: Nlnet granted our work, [PyCM library](https://github.com/sepandhaghighi/pycm), for a year through NGI0 Commons Fund for adding new features such as distance similarity matrix, data distribution analysis, hardware benchmarking of the library.
-
-- Jan 2025: My paper [Trust dynamics in AI-assisted development: Definitions, factors, and implications](https://www.amazon.science/publications/trust-dynamics-in-ai-assisted-development-definitions-factors-and-implications) got accepted into International Conference on Software Engineering (ICSE) 2025. I will present my work remotely in searly May.
-
-- Sep 2024: I was awarded a [Trelis AI Grant](https://trelis.com/trelis-ai-grants/) for developing a RESTful API for PyCM, enhancing accessibility to machine learning statistical post-processing tools.
-
-- May 2024: Python Software Foundation (PSF) granted our work, [ASCII Art library](https://github.com/sepandhaghighi/art), for developing the library and add new features like multi-line arts, and supporting custom fonts.
+| Date | Event/Project | Highlights |
+| --- | --- | --- |
+| Aug 2025 | **VL/HCC 2025** | [Paper](https://arxiv.org/pdf/2508.07966) on AI-assisted codebase generation ("vibe-coding") accepted. |
+| Mar 2025 | **PSF Grant** | [Nava library](https://github.com/openscilab/nava) awarded funding for OS-based sound engines. |
+| Feb 2025 | **NLnet Grant** | [PyCM library](https://github.com/sepandhaghighi/pycm) funded by NGI0 Commons for distance similarity and benchmarking. |
+| Jan 2025 | **ICSE 2025** | [Paper](https://www.amazon.science/publications/trust-dynamics-in-ai-assisted-development-definitions-factors-and-implications) on Trust Dynamics in AI-assisted development accepted. |
+| Sep 2024 | **Trelis AI Grant** | Developed a RESTful API for PyCM statistical post-processing tools. |
+| May 2024 | **PSF Grant** | [Art library](https://github.com/sepandhaghighi/art) awarded funding for multi-line and custom font features. |
