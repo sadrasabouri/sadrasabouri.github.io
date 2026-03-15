@@ -120,6 +120,11 @@ Throughout this journey, I've had the great opportunity to work with the Adaptiv
 <br><br>
 You can find some of my publications below:
   <details class="subsection-details">
+    <summary>[ICSE26] <b>Cognitive Biases in LLM-Assisted Software Development,</b> Xinyi Zhou, Zeinadsadat Saghi, <b><u>Sadra Sabouri</u></b>, Rahul Pandita, Mollie McGuire, Souti Chattopadhyay</summary><div>
+    <a href="https://arxiv.org/abs/2601.08045" class="paper-button">Paper</a><br>
+    Our study of 36 developers reveals that 48.8% of programming actions are biased, with over half of these instances originating from AI-driven interactions. We present a validated taxonomy of 15 cognitive bias categories and offer mitigation strategies for developers and tool builders to improve human-AI collaboration.
+  </div></details>
+  <details class="subsection-details">
     <summary>[UIST25] <b>Beyond the Page: Enriching Academic Paper Reading with Social Media Discussions,</b> Run Huang, Anna Katherine Zhao, Zeinabsadat Saghi, <b><u>Sadra Sabouri</u></b>, Souti Chattopadhyay</summary><div>
     <a href="https://dl.acm.org/doi/pdf/10.1145/3746059.3747647" class="paper-button">Paper</a><br>
     We developed a research prototype that integrates paper reading with informal social media insights to bridge the gap between structured scholarly text and dynamic peer discourse. Through a formative study with eight researchers, we explored how this integration can expand academic perspectives while minimizing the cognitive overload and distractions typical of social streams.
@@ -344,7 +349,7 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
 
 | Date | Event/Project | Highlights |
 | --- | --- | --- |
-| Jan 2026 | **Tinker Research Grant** | Our project funded by Thinking Machines Lab for Persian prosody-informed LLMs. |
+| Jan 2026 | **Tinker Research Grant** | Our project is funded by Thinking Machines Lab for Persian prosody-informed LLMs. |
 | Aug 2025 | **VL/HCC 2025** | [Paper](https://arxiv.org/pdf/2508.07966) on AI-assisted codebase generation ("vibe-coding") accepted. |
 | Mar 2025 | **PSF Grant** | [Nava library](https://github.com/openscilab/nava) awarded funding for OS-based sound engines. |
 | Feb 2025 | **NLnet Grant** | [PyCM library](https://github.com/sepandhaghighi/pycm) funded by NGI0 Commons for distance similarity and benchmarking. |
