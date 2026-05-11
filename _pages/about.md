@@ -355,6 +355,7 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
 
 | Date | Event/Project | Highlights |
 | --- | --- | --- |
+| May 2026 | **PyCon-US 2026** | I am presenting [Memor](https://github.com/openscilab/memor) as aposter in Long Beach. |
 | Jan 2026 | **Tinker Research Grant** | Our project is funded by Thinking Machines Lab for Persian prosody-informed LLMs. |
 | Aug 2025 | **VL/HCC 2025** | [Paper](https://arxiv.org/pdf/2508.07966) on AI-assisted codebase generation ("vibe-coding") accepted. |
 | Mar 2025 | **PSF Grant** | [Nava library](https://github.com/openscilab/nava) awarded funding for OS-based sound engines. |
