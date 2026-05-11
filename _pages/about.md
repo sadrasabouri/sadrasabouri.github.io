@@ -110,7 +110,7 @@ table, th, td {
 }
 </style>
 
-Hi, I'm Sadra! I’m a CS PhD student at USC researching the intersection of HCI and NLP to build LLMs that empower human decision-making.
+Hi, I'm Sadra! I’m a CS PhD candidate at USC researching the intersection of HCI and NLP to build LLMs that empower human decision-making.
 Beyond research, I co-lead an open-source team developing scientific software tools to make technology more accessible, transparent, and fun. When I'm not coding or writing, I'm usually catching a movie or exploring new places in LA.
 I'm always happy to chat about research or shared journeys; feel free to reach out!
 
