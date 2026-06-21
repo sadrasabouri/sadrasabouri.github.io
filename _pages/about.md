@@ -110,18 +110,18 @@ table, th, td {
 }
 </style>
 
-Hi, I'm Sadra! I’m a CS PhD candidate at USC researching the intersection of HCI and NLP to build LLMs that empower human decision-making.
-Beyond research, I co-lead an open-source team developing scientific software tools to make technology more accessible, transparent, and fun. When I'm not coding or writing, I'm usually catching a movie or exploring new places in LA.
-I'm always happy to chat about research or shared journeys; feel free to reach out!
+Hi, I'm Sadra! I’m a CS PhD candidate at USC working at the intersection of HCI and NLP to build LLMs that empower human decision-making.
+Beyond research, I co-lead an open-source team that develops scientific software tools to make technology more accessible, transparent, and fun. When I'm not coding or writing, you'll usually find me catching a movie or exploring new places in LA.
+I'm always happy to chat about research or compare notes on the journey, so feel free to reach out!
 
 Explore more:
 
 <details class="section-details">
 <summary><b>CS PhD @ USC ✌️</b></summary><div>
-The main problem I'm trying to explore is the challenges and solutions for integration of AI systems into human workflows. Specifically, I'm more interested in answering the question: "What is the core part of a task that AI cannot do, and how can AI assist humans in doing that?"
-To address this, I've explored several domains where large language models (LLMs) have been introduced but face full-integration challenges. These include software developers interacting with the code agents, strategic strategic decision-maker who use AI advisors, patients navigating conflicting medical advice, users with different knowledge backgrounds asking questions.
+The main problem I explore is how to integrate AI systems into human workflows. Specifically, I'm most interested in answering one question: "What is the core part of a task that AI cannot do, and how can AI help humans do that part better?"
+To address this, I've studied several domains where large language models (LLMs) have been introduced but still face integration challenges: software developers working with code agents, strategic decision-makers relying on AI advisors, patients navigating conflicting medical advice, and users from different knowledge backgrounds asking questions.
 <br><br>
-I'm currently in my third year and looking forward to exploring more domains to develop a taxonomy of these challenges and a framework that identifies the right interaction patterns and integration points for AI.
+I'm currently in my third year and looking forward to exploring more domains, with the goal of developing a taxonomy of these challenges and a framework that identifies the right interaction patterns and integration points for AI.
 Throughout this journey, I've had the great opportunity to work with the Adaptive Computing Experience (ACE) Lab (Souti Chattopadhyay's lab @ GCS) and [CUTE LAB NAME] (Jonathan May's lab @ ISI).
 <br><br>
 You can find some of my publications below:
@@ -138,7 +138,7 @@ You can find some of my publications below:
   <details class="subsection-details">
     <summary>[VL/HCC25] <b>Exploring the Challenges and Opportunities of AI-assisted Codebase Generation,</b> Philipp Eibl, <b><u>Sadra Sabouri</u></b>, Souti Chattopadhyay</summary><div>
     <a href="https://arxiv.org/pdf/2508.07966" class="paper-button">Paper</a><br>
-    We explored how LLMs reshape software development through "vibe-coding," where developers rely on iterative prompting an LLM for buildign a software without traditional meaning of coding. We show how this shift blurs boundaries between ideation, coding, and debugging, and potentially can make software development more collaborative.
+    We explored how LLMs reshape software development through "vibe-coding," where developers build software by iteratively prompting an LLM rather than coding in the traditional sense. We show how this shift blurs the boundaries between ideation, coding, and debugging, and could make software development more collaborative.
   </div></details>
   <details class="subsection-details">
     <summary>[ICSE25] <b>Trust dynamics in AI-assisted development: Definitions, factors, and implications,</b> <b><u>Sadra Sabouri</u></b>, Philipp Eibl, Xinyi Zhou, Morteza Ziyadi, Nenad Medvidovic, Lars Lindemann, Souti Chattopadhyay</summary><div>
@@ -158,12 +158,11 @@ Always happy to chat, collaborate, or just hear what you're working on; feel fre
 
 <details class="section-details">
 <summary><b>Open World Developer 🌐</b></summary><div>
-Open-sourcing research in NLP has lead to breakthroughs like ChatGPT, but generative AI also makes it easier to produce convincing yet flawed content in research communities.
-This poses a sense of Frankenstein-Trojan threat to scientific integrity.
+Open-sourcing research in NLP has led to breakthroughs like ChatGPT, but generative AI also makes it easier to produce convincing yet flawed content within research communities, posing a Frankenstein-Trojan threat to scientific integrity.
 Committed to open science and reproducibility, I focus on building scientific software that ensures transparency.
-With a group of my friends, I co-founded <a href="https://github.com/openscilab/">OpenSciLab</a> to develop open-source tools toward this goal.
+Together with a group of friends, I co-founded <a href="https://github.com/openscilab/">OpenSciLab</a> to develop open-source tools toward this goal.
 <br><br>
-Below is a topic-based summary of my work, including those through OpenSciLab, dataset releases and independent projects:
+Below is a topic-based summary of my work, including projects through OpenSciLab, dataset releases, and independent projects:
   <details class="subsection-details">
     <summary>Natural Language Processing and Large Language Models</summary><div>
     <!-- exprand -->
@@ -188,18 +187,18 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
       <a href="https://github.com/openscilab/memor/"><img src="https://img.shields.io/github/stars/openscilab/memor.svg?style=social&logo=github&label=Stars"></a>
       <a href="https://github.com/openscilab/memor/"><img src="https://img.shields.io/github/forks/openscilab/memor.svg?style=social&logo=github&label=Forks"></a>
       <a href="http://pepy.tech/project/memor"><img src="http://pepy.tech/badge/memor"></a><br>
-      Memor is designed to help users manage the memory of their interactions with Large Language Models (LLMs). It enables users to access and utilize the history of their conversations when prompting LLMs. That would create a more personalized and context-aware experience. Users can select specific parts of past interactions with one LLM and share them with another. By bridging the gap between isolated LLM instances, Memor revolutionizes the way users interact with AI by making transitions between models smoother.
+      Memor helps users manage the memory of their interactions with Large Language Models (LLMs). It lets users tap into the history of their conversations when prompting an LLM, creating a more personalized and context-aware experience. Users can select specific parts of past interactions with one LLM and carry them over to another. By bridging the gap between otherwise isolated LLM instances, Memor makes switching between models far smoother.
       </div></details>
       <details class="subsection-details">
       <summary>[JAIAI] <b>naab: A ready-to-use plug-and-play corpus for Farsi,</b> <b><u>Sadra Sabouri</u></b>, Elnaz Rahmati, Soroush Gooran, Hossein Sameti</summary><div>
       <a href="https://arxiv.org/pdf/2208.13486" class="paper-button">Paper</a>
       <a href="https://huggingface.co/datasets/SLPL/naab"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Data-blue"></a><br>
-      The issue of large training data is (was at that time :D) emerging more in lower resource languages - like Farsi. We propose naab a hue cleaned and ready-to-use open-source textual corpus in Farsi. It contains about 130GB of data, 250 million paragraphs, and 15 billion words. The project name is derived from the Farsi word NAAB which means pure and high grade.
+      The need for large training data is especially pressing for lower-resource languages like Farsi (and was even more so at the time :D). We introduce naab, a large, cleaned, and ready-to-use open-source text corpus for Farsi. It contains about 130GB of data, 250 million paragraphs, and 15 billion words. The project name comes from the Farsi word NAAB, which means pure and high-grade.
       </div></details>
       <details class="subsection-details">
       <summary>[ALP@NAACL25] <b>Parsipy: NLP toolkit for historical persian texts in Python,</b> Farhan Farsi, Parnian Fazel, Sepand Haghighi, <b><u>Sadra Sabouri</u></b>, Farzaneh Goshtasb, Nadia Hajipour, Ehsaneddin Asgari, Hossein Sameti</summary><div>
       <a href="https://aclanthology.org/2025.alp-1.17.pdf" class="paper-button">Paper</a><br>
-      The study of historical languages presents unique challenges due to their complex orthographic systems, fragmentary textual evidence, and the absence of standardized digital representations of text in those languages. This work introduces an NLP toolkit designed to facilitate the analysis of historical Persian languages by offering modules for tokenization, lemmatization, part-of-speech tagging, phoneme-to-transliteration conversion, and word embedding.
+      Studying historical languages poses unique challenges due to their complex orthographic systems, fragmentary textual evidence, and the lack of standardized digital text representations. This work introduces an NLP toolkit that supports the analysis of historical Persian by offering modules for tokenization, lemmatization, part-of-speech tagging, phoneme-to-transliteration conversion, and word embeddings.
       </div></details>
       <details class="subsection-details">
       <summary>[LoResMT@NAACL25] <b>PahGen: Generating Ancient Pahlavi Text via Grammar-guided Zero-shot Translation,</b> Farhan Farsi, Parnian Fazel, Farzaneh Goshtasb, Nadia Hajipour, <b><u>Sadra Sabouri</u></b>, Ehsaneddin Asgari, Hossein Sameti</summary><div>
@@ -209,7 +208,7 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
       <details class="subsection-details">
       <summary>[DialDoc@ACL22] <b>Docalog: Multi-document Dialogue System using Transformer-based Span Retrieval,</b> Sayed Hesam Alavian, Ali Satvaty, <b><u>Sadra Sabouri</u></b>, Ehsaneddin Asgari, Hossein Sameti</summary><div>
       <a href="https://aclanthology.org/2022.dialdoc-1.16.pdf" class="paper-button">Paper</a><br>
-      This paper discusses our proposed approach, Docalog, for the DialDoc-22 (MultiDoc2Dial) shared task which was part of my BSc. thesis. Docalog, has a three-stage pipeline consisting of (1) a document retriever model, (2) an answer span prediction model, and (3) an ultimate span picker deciding on the most likely answer span, out of all predicted spans.
+      This paper presents our approach, Docalog, for the DialDoc-22 (MultiDoc2Dial) shared task, which was part of my BSc thesis. Docalog uses a three-stage pipeline consisting of (1) a document retriever model, (2) an answer span prediction model, and (3) a final span picker that selects the most likely answer span among all predicted spans.
       </div></details>
   </div></details>
   <details class="subsection-details">
@@ -224,8 +223,8 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
       <details class="subsection-details">
         <summary>Sharif-Wav2Vec2.0: Wave2Vec2.0 Speech Processing Model Tailored for Farsi</summary><div>
         <a href="https://huggingface.co/SLPL/Sharif-wav2vec2"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue"></a><br>
-        The base model fine-tuned on 108 hours of Commonvoice's Farsi audio. Token set and the language models of that model changed to support special nuances of Farsi which wasn't there in English.
-        More technically, we trained a 5gram using kenlm toolkit and used it in the processor which increased our accuracy on online ASR.
+        The base model fine-tuned on 108 hours of Farsi audio from Common Voice. We adapted its token set and language models to capture nuances of Farsi that aren't present in English.
+        More technically, we trained a 5-gram language model using the KenLM toolkit and plugged it into the processor, which improved our accuracy on online ASR.
       </div></details>
   </div></details>
   <details class="subsection-details">
@@ -245,7 +244,7 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
         <a href="https://github.com/sepandhaghighi/pyrgg/"><img src="https://img.shields.io/github/stars/sepandhaghighi/pyrgg.svg?style=social&logo=github&label=Stars"></a>
         <a href="https://github.com/sepandhaghighi/pyrgg/"><img src="https://img.shields.io/github/forks/sepandhaghighi/pyrgg.svg?style=social&logo=github&label=Forks"></a>
         <a href="http://pepy.tech/project/pyrgg"><img src="http://pepy.tech/badge/pyrgg"></a><br>
-        PyRGG synthesizes random graph which can be useful in networks simulation. It supports multiple graph file formats, such as DIMACS-Graph files. It can generate graphs of various sizes and using different generation methods such as Erdős–Rényi-Gilbert, Erdős–Rényi, Stochastic Block Model.
+        PyRGG synthesizes random graphs that are useful for network simulation. It supports multiple graph file formats, such as DIMACS-Graph files, and can generate graphs of various sizes using different generation methods, including Erdős–Rényi–Gilbert, Erdős–Rényi, and the Stochastic Block Model.
       </div></details>
       <details class="subsection-details">
         <summary>IPSpot: A Python Tool to Fetch the System's IP Address</summary><div>
@@ -271,7 +270,7 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
         <a href="https://github.com/sepandhaghighi/samila"><img src="https://img.shields.io/github/stars/sepandhaghighi/samila.svg?style=social&logo=github&label=Stars"></a>
         <a href="https://github.com/sepandhaghighi/samila"><img src="https://img.shields.io/github/forks/sepandhaghighi/samila.svg?style=social&logo=github&label=Forks"></a>
         <a href="http://pepy.tech/project/samila"><img src="http://pepy.tech/badge/samila"></a><br>
-        Samila lets you create images by randomly permuting many thousand points. The position of every single point is calculated by a formula, which has random parameters. Because of the randomness of the generation process you nearly can't reproduce any image unless you have the right seed for it. I highly encourage you to take a look at the paper if you're interested.
+        Samila lets you create images by randomly permuting many thousands of points. The position of each point is computed by a formula with random parameters. Because the generation process is random, you essentially can't reproduce an image unless you have the right seed for it. I highly encourage you to take a look at the paper if you're interested.
       </div></details>
       <details class="subsection-details">
         <summary>Art: ASCII art library for Python</summary><div>
@@ -289,7 +288,7 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
         <a href="https://github.com/sepandhaghighi/nafas"><img src="https://img.shields.io/github/stars/sepandhaghighi/nafas.svg?style=social&logo=github&label=Stars"></a>
         <a href="https://github.com/sepandhaghighi/nafas"><img src="https://img.shields.io/github/forks/sepandhaghighi/nafas.svg?style=social&logo=github&label=Forks"></a>
         <a href="http://pepy.tech/project/nafas"><img src="http://pepy.tech/badge/nafas"></a><br>
-        Nafas is a collection of breathing gymnastics designed to reduce the exhaustion of long working hours with computer. With multiple breathing patterns, Nafas helps you find your way to a detoxified energetic workday and also improves your concentration by increasing the oxygen level. 
+        Nafas is a collection of breathing exercises designed to ease the exhaustion of long hours at the computer. With multiple breathing patterns, Nafas helps you reach a refreshed, energetic workday and improves your concentration by boosting your oxygen level. 
         <!-- We ran a user study to understand the library's users and tailor the features and programs to their style. -->
       </div></details>
       <details class="subsection-details">
@@ -297,7 +296,7 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
         <a href="https://github.com/sepandhaghighi/mytimer"><img src="https://img.shields.io/github/stars/sepandhaghighi/mytimer.svg?style=social&logo=github&label=Stars"></a>
         <a href="https://github.com/sepandhaghighi/mytimer"><img src="https://img.shields.io/github/forks/sepandhaghighi/mytimer.svg?style=social&logo=github&label=Forks"></a>
         <a href="http://pepy.tech/project/mytimer"><img src="http://pepy.tech/badge/mytimer"></a><br>
-        MyTimer aims to provide a simple yet comprehensive timer for terminal users. This project allows users to set timers directly from their command line interface, making it convenient for those who spend a significant amount of time working in the terminal!
+        MyTimer aims to provide a simple yet comprehensive timer for terminal users. It lets you set timers directly from the command line, which is handy for anyone who spends a lot of time working in the terminal!
       </div></details>
   </div></details>
   <details class="subsection-details">
@@ -355,11 +354,11 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
 
 |   Date    |        Event       |
 | --------- | ------------------ |
-| May 2026  | **PyCon-US 2026**: I am presenting [Memor](https://github.com/openscilab/memor) as aposter in Long Beach. |
+| May 2026  | **PyCon-US 2026**: I am presenting [Memor](https://github.com/openscilab/memor) as a poster in Long Beach. |
 | Jan 2026  | **Tinker Grant**: Our project is funded by Thinking Machines Lab for Persian prosody-informed LLMs. |
 | Aug 2025  | **VL/HCC 2025**: [Paper](https://arxiv.org/pdf/2508.07966) on AI-assisted codebase generation ("vibe-coding") accepted. |
 | Mar 2025  | **PSF Grant**: [Nava library](https://github.com/openscilab/nava) awarded funding for OS-based sound engines. |
 | Feb 2025  | **NLnet Grant**: [PyCM library](https://github.com/sepandhaghighi/pycm) funded by NGI0 Commons for distance similarity and benchmarking. |
 | Jan 2025  | **ICSE 2025**: [Paper](https://www.amazon.science/publications/trust-dynamics-in-ai-assisted-development-definitions-factors-and-implications) on Trust Dynamics in AI-assisted development accepted. |
-| Sep 2024  | **TrelisAI Grant**: Developing a RESTful API for PyCM got devlopement micro grant. |
+| Sep 2024  | **TrelisAI Grant**: Received a development micro-grant to build a RESTful API for PyCM. |
 | May 2024  | **PSF Grant**: [Art library](https://github.com/sepandhaghighi/art) awarded funding for adding multi-line and custom font features. |
