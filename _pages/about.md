@@ -353,13 +353,13 @@ Below is a topic-based summary of my work, including those through OpenSciLab, d
 
 ### News
 
-| Date | Event/Project | Highlights |
-| --- | --- | --- |
-| May 2026 | **PyCon-US 2026** | I am presenting [Memor](https://github.com/openscilab/memor) as aposter in Long Beach. |
-| Jan 2026 | **Tinker Research Grant** | Our project is funded by Thinking Machines Lab for Persian prosody-informed LLMs. |
-| Aug 2025 | **VL/HCC 2025** | [Paper](https://arxiv.org/pdf/2508.07966) on AI-assisted codebase generation ("vibe-coding") accepted. |
-| Mar 2025 | **PSF Grant** | [Nava library](https://github.com/openscilab/nava) awarded funding for OS-based sound engines. |
-| Feb 2025 | **NLnet Grant** | [PyCM library](https://github.com/sepandhaghighi/pycm) funded by NGI0 Commons for distance similarity and benchmarking. |
-| Jan 2025 | **ICSE 2025** | [Paper](https://www.amazon.science/publications/trust-dynamics-in-ai-assisted-development-definitions-factors-and-implications) on Trust Dynamics in AI-assisted development accepted. |
-| Sep 2024 | **Trelis AI Grant** | Our project for developing a RESTful API for PyCM statistical post-processing tools got minor fund. |
-| May 2024 | **PSF Grant** | [Art library](https://github.com/sepandhaghighi/art) awarded funding for adding multi-line and custom font features. |
+|   Date    |        Event       |
+| --------- | ------------------ |
+| May 2026  | **PyCon-US 2026**: I am presenting [Memor](https://github.com/openscilab/memor) as aposter in Long Beach. |
+| Jan 2026  | **Tinker Grant**: Our project is funded by Thinking Machines Lab for Persian prosody-informed LLMs. |
+| Aug 2025  | **VL/HCC 2025**: [Paper](https://arxiv.org/pdf/2508.07966) on AI-assisted codebase generation ("vibe-coding") accepted. |
+| Mar 2025  | **PSF Grant**: [Nava library](https://github.com/openscilab/nava) awarded funding for OS-based sound engines. |
+| Feb 2025  | **NLnet Grant**: [PyCM library](https://github.com/sepandhaghighi/pycm) funded by NGI0 Commons for distance similarity and benchmarking. |
+| Jan 2025  | **ICSE 2025**: [Paper](https://www.amazon.science/publications/trust-dynamics-in-ai-assisted-development-definitions-factors-and-implications) on Trust Dynamics in AI-assisted development accepted. |
+| Sep 2024  | **TrelisAI Grant**: Developing a RESTful API for PyCM got devlopement micro grant. |
+| May 2024  | **PSF Grant**: [Art library](https://github.com/sepandhaghighi/art) awarded funding for adding multi-line and custom font features. |
