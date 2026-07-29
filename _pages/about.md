@@ -354,6 +354,7 @@ Below is a topic-based summary of my work, including projects through OpenSciLab
 
 |   Date    |        Event       |
 | --------- | ------------------ |
+| July 2026 | **VL/HCC 2026**: Two of my papers on [the effect of rhetorical patterns for AI advisors](https://arxiv.org/pdf/2607.17627) and [designing agentic systems for difficult query languages](https://arxiv.org/pdf/2605.09304) got accepted. |
 | Jun 2026  | I spent the summer as an Applied Scientist intern on the [Microsoft PROSE](https://www.microsoft.com/en-us/research/group/prose/) team, working with Sumit Gulwani. |
 | May 2026  | **PyCon-US 2026**: I am presenting [Memor](https://github.com/openscilab/memor) as a poster in Long Beach. |
 | Jan 2026  | **Tinker Grant**: Our project is funded by Thinking Machines Lab for Persian prosody-informed LLMs. |
