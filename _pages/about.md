@@ -354,6 +354,7 @@ Below is a topic-based summary of my work, including projects through OpenSciLab
 
 |   Date    |        Event       |
 | --------- | ------------------ |
+| Jun 2026  | I spent the summer as an Applied Scientist intern on the [Microsoft PROSE](https://www.microsoft.com/en-us/research/group/prose/) team, working with Sumit Gulwani. |
 | May 2026  | **PyCon-US 2026**: I am presenting [Memor](https://github.com/openscilab/memor) as a poster in Long Beach. |
 | Jan 2026  | **Tinker Grant**: Our project is funded by Thinking Machines Lab for Persian prosody-informed LLMs. |
 | Aug 2025  | **VL/HCC 2025**: [Paper](https://arxiv.org/pdf/2508.07966) on AI-assisted codebase generation ("vibe-coding") accepted. |
