@@ -357,10 +357,10 @@ Below is a topic-based summary of my work, including projects through OpenSciLab
 | July 2026 | **VL/HCC 2026**: Two of my papers on [the effect of rhetorical patterns for AI advisors](https://arxiv.org/pdf/2607.17627) and [designing agentic systems for difficult query languages](https://arxiv.org/pdf/2605.09304) got accepted. |
 | Jun 2026  | I spent the summer as an Applied Scientist intern on the [Microsoft PROSE](https://www.microsoft.com/en-us/research/group/prose/) team, working with Sumit Gulwani. |
 | May 2026  | **PyCon-US 2026**: I am presenting [Memor](https://github.com/openscilab/memor) as a poster in Long Beach. |
-| Jan 2026  | **Tinker Grant**: Our project is funded by Thinking Machines Lab for Persian prosody-informed LLMs. |
+| Jan 2026  | **Tinker Grant**: Our project on Persian prosody-informed LLMs was funded by Thinking Machines Lab. |
 | Aug 2025  | **VL/HCC 2025**: [Paper](https://arxiv.org/pdf/2508.07966) on AI-assisted codebase generation ("vibe-coding") accepted. |
 | Mar 2025  | **PSF Grant**: [Nava library](https://github.com/openscilab/nava) awarded funding for OS-based sound engines. |
 | Feb 2025  | **NLnet Grant**: [PyCM library](https://github.com/sepandhaghighi/pycm) funded by NGI0 Commons for distance similarity and benchmarking. |
 | Jan 2025  | **ICSE 2025**: [Paper](https://www.amazon.science/publications/trust-dynamics-in-ai-assisted-development-definitions-factors-and-implications) on Trust Dynamics in AI-assisted development accepted. |
 | Sep 2024  | **TrelisAI Grant**: Received a development micro-grant to build a RESTful API for PyCM. |
-| May 2024  | **PSF Grant**: [Art library](https://github.com/sepandhaghighi/art) awarded funding for adding multi-line and custom font features. |
+| May 2024  | **PSF Grant**: [Art library](https://github.com/sepandhaghighi/art) awarded funding to add multi-line and custom font features. |
