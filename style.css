@@ -1,0 +1,10 @@
+/* Shared across index.html and stories/*.html */
+
+/* Nav that only appears once the sidebar is hidden. */
+.mobile-only { display: none; }
+
+/* On phones, drop the left column and give the content the full width. */
+@media (max-width: 640px) {
+  .sidebar { display: none; }
+  .mobile-only { display: block; }
+}
