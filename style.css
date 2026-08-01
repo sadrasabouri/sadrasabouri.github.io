@@ -1,5 +1,12 @@
 /* Shared across index.html and stories/*.html */
 
+/* Footer date line, quiet enough to stay out of the way. */
+.updated {
+  margin-top: 2em;
+  font-size: 0.85em;
+  color: #777;
+}
+
 /* Nav that only appears once the sidebar is hidden. */
 .mobile-only { display: none; }
 
